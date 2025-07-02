@@ -2,68 +2,30 @@
 pandas==2.1.4
 numpy==1.24.3
 scikit-learn==1.3.2
-matplotlib==3.7.2
-seaborn==0.12.2
-plotly==5.17.0
 
 # Advanced ML Frameworks
 xgboost==2.0.2
 lightgbm==4.1.0
 catboost==1.2.2
+
+# Deep Learning Frameworks
 tensorflow==2.15.0
 torch==2.1.2
-transformers==4.36.2
+torchvision==0.16.2
 
-# Deep Learning and Neural Networks
-keras==2.15.0
-pytorch-lightning==2.1.3
+# Hyperparameter Optimization
 optuna==3.5.0
 
-# Time Series and Forecasting
-prophet==1.1.5
-statsmodels==0.14.1
-pmdarima==2.0.4
-
-# Feature Engineering and Selection
-feature-engine==1.6.2
-boruta==0.3
-shap==0.44.0
-lime==0.2.0.1
-
-# Model Deployment and Serving
+# FastAPI and Server
 fastapi==0.104.1
 uvicorn==0.24.0
 pydantic==2.5.2
-joblib==1.3.2
-pickle5==0.0.12
 
-# Database and Storage
-sqlalchemy==2.0.23
-redis==5.0.1
-pymongo==4.6.1
-
-# API and Web Integration
+# Data Processing and Utilities
 requests==2.31.0
-httpx==0.25.2
-websockets==12.0
+python-multipart==0.0.6
+joblib==1.3.2
 
 # Development and Testing
 pytest==7.4.3
-pytest-cov==4.1.0
 black==23.11.0
-flake8==6.1.0
-mypy==1.7.1
-
-# Jupyter and Interactive Development
-jupyter==1.0.0
-ipykernel==6.27.1
-notebook==7.0.6
-
-# Visualization and Reporting
-dash==2.16.1
-streamlit==1.28.2
-gradio==4.8.0
-
-# Performance and Optimization
-numba==0.58.1
-cython==3.0.6

@@ -1,0 +1,1001 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,venue
+1,2020,Bangalore,2020-01-01,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,29,8,Eden Gardens
+2,2024,Chennai,2020-01-02,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,79,0,MA Chidambaram Stadium
+3,2024,Hyderabad,2020-01-03,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,1,Mumbai Indians,3,1,MA Chidambaram Stadium
+4,2022,Mumbai,2020-01-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,62,4,MA Chidambaram Stadium
+5,2020,Mumbai,2020-01-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,58,4,Eden Gardens
+6,2024,Jaipur,2020-01-06,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,99,8,Wankhede Stadium
+7,2024,Mumbai,2020-01-07,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,96,2,Wankhede Stadium
+8,2021,Mohali,2020-01-08,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Mumbai Indians,70,1,M Chinnaswamy Stadium
+9,2023,Bangalore,2020-01-09,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,82,0,Eden Gardens
+10,2024,Mohali,2020-01-10,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,26,7,M Chinnaswamy Stadium
+11,2024,Kolkata,2020-01-11,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,tie,1,Royal Challengers Bangalore,43,0,MA Chidambaram Stadium
+12,2021,Mohali,2020-01-12,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,88,9,Eden Gardens
+13,2022,Kolkata,2020-01-13,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,tie,1,Royal Challengers Bangalore,75,9,M Chinnaswamy Stadium
+14,2021,Mohali,2020-01-14,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,tie,0,Mumbai Indians,20,7,Wankhede Stadium
+15,2024,Bangalore,2020-01-15,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,1,4,Wankhede Stadium
+16,2020,Hyderabad,2020-01-16,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,67,3,Eden Gardens
+17,2021,Chennai,2020-01-17,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,91,5,MA Chidambaram Stadium
+18,2020,Chennai,2020-01-18,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,68,7,M Chinnaswamy Stadium
+19,2024,Jaipur,2020-01-19,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,90,2,Wankhede Stadium
+20,2020,Mumbai,2020-01-20,Mumbai Indians,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,62,7,M Chinnaswamy Stadium
+21,2022,Kolkata,2020-01-21,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,85,7,Wankhede Stadium
+22,2020,Bangalore,2020-01-22,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,33,7,M Chinnaswamy Stadium
+23,2023,Chennai,2020-01-23,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,59,6,M Chinnaswamy Stadium
+24,2022,Mumbai,2020-01-24,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,57,8,MA Chidambaram Stadium
+25,2020,Kolkata,2020-01-25,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,normal,1,Chennai Super Kings,19,6,M Chinnaswamy Stadium
+26,2023,Delhi,2020-01-26,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,11,9,MA Chidambaram Stadium
+27,2020,Mohali,2020-01-27,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,6,2,Wankhede Stadium
+28,2020,Hyderabad,2020-01-28,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,2,0,Wankhede Stadium
+29,2021,Jaipur,2020-01-29,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,51,8,Wankhede Stadium
+30,2022,Kolkata,2020-01-30,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,90,8,M Chinnaswamy Stadium
+31,2023,Mohali,2020-01-31,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,35,6,Wankhede Stadium
+32,2024,Delhi,2020-02-01,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Chennai Super Kings,85,9,M Chinnaswamy Stadium
+33,2024,Delhi,2020-02-02,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,22,0,Wankhede Stadium
+34,2021,Kolkata,2020-02-03,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,52,8,Eden Gardens
+35,2021,Kolkata,2020-02-04,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,53,1,Eden Gardens
+36,2023,Bangalore,2020-02-05,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,47,8,MA Chidambaram Stadium
+37,2023,Mumbai,2020-02-06,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,18,4,Eden Gardens
+38,2023,Hyderabad,2020-02-07,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,90,3,MA Chidambaram Stadium
+39,2024,Jaipur,2020-02-08,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,29,2,MA Chidambaram Stadium
+40,2024,Chennai,2020-02-09,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,23,3,M Chinnaswamy Stadium
+41,2021,Mohali,2020-02-10,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,tie,0,Chennai Super Kings,87,9,Eden Gardens
+42,2023,Mohali,2020-02-11,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,70,8,M Chinnaswamy Stadium
+43,2022,Mumbai,2020-02-12,Mumbai Indians,Delhi Capitals,Chennai Super Kings,field,normal,0,Mumbai Indians,23,9,MA Chidambaram Stadium
+44,2021,Bangalore,2020-02-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,33,0,Eden Gardens
+45,2020,Mohali,2020-02-14,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,95,9,M Chinnaswamy Stadium
+46,2024,Hyderabad,2020-02-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,38,8,Eden Gardens
+47,2023,Mohali,2020-02-16,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,1,Royal Challengers Bangalore,10,2,MA Chidambaram Stadium
+48,2020,Hyderabad,2020-02-17,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,86,5,Eden Gardens
+49,2023,Bangalore,2020-02-18,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,95,6,Eden Gardens
+50,2021,Mohali,2020-02-19,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,4,5,Eden Gardens
+51,2022,Chennai,2020-02-20,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,bat,normal,0,Mumbai Indians,49,8,Eden Gardens
+52,2023,Jaipur,2020-02-21,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,tie,1,Chennai Super Kings,90,8,Eden Gardens
+53,2023,Jaipur,2020-02-22,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,69,8,MA Chidambaram Stadium
+54,2021,Mohali,2020-02-23,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,tie,0,Chennai Super Kings,66,4,Eden Gardens
+55,2023,Mohali,2020-02-24,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,88,7,MA Chidambaram Stadium
+56,2022,Mohali,2020-02-25,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,17,7,Eden Gardens
+57,2021,Chennai,2020-02-26,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,45,0,Eden Gardens
+58,2022,Delhi,2020-02-27,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,95,4,Wankhede Stadium
+59,2024,Kolkata,2020-02-28,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,69,1,Wankhede Stadium
+60,2020,Kolkata,2020-02-29,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,tie,0,Chennai Super Kings,10,9,Wankhede Stadium
+61,2023,Hyderabad,2020-03-01,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,49,5,M Chinnaswamy Stadium
+62,2024,Kolkata,2020-03-02,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,normal,1,Royal Challengers Bangalore,26,1,Wankhede Stadium
+63,2021,Hyderabad,2020-03-03,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,90,7,M Chinnaswamy Stadium
+64,2023,Mumbai,2020-03-04,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,43,7,MA Chidambaram Stadium
+65,2021,Kolkata,2020-03-05,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,field,normal,1,Royal Challengers Bangalore,17,5,Eden Gardens
+66,2022,Mumbai,2020-03-06,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,57,3,Eden Gardens
+67,2022,Delhi,2020-03-07,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,39,6,M Chinnaswamy Stadium
+68,2022,Jaipur,2020-03-08,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,20,1,M Chinnaswamy Stadium
+69,2023,Delhi,2020-03-09,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,23,9,MA Chidambaram Stadium
+70,2023,Hyderabad,2020-03-10,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,0,3,Eden Gardens
+71,2024,Mumbai,2020-03-11,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,41,1,Eden Gardens
+72,2023,Mumbai,2020-03-12,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,34,8,Wankhede Stadium
+73,2024,Bangalore,2020-03-13,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,33,7,M Chinnaswamy Stadium
+74,2023,Delhi,2020-03-14,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,44,8,MA Chidambaram Stadium
+75,2020,Jaipur,2020-03-15,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,1,Mumbai Indians,54,3,Eden Gardens
+76,2023,Chennai,2020-03-16,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,11,3,MA Chidambaram Stadium
+77,2023,Jaipur,2020-03-17,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,7,2,MA Chidambaram Stadium
+78,2021,Kolkata,2020-03-18,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,5,2,M Chinnaswamy Stadium
+79,2024,Mohali,2020-03-19,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,normal,1,Mumbai Indians,82,6,Wankhede Stadium
+80,2022,Kolkata,2020-03-20,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,tie,0,Mumbai Indians,60,0,Eden Gardens
+81,2020,Hyderabad,2020-03-21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,12,3,MA Chidambaram Stadium
+82,2023,Jaipur,2020-03-22,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,6,6,Wankhede Stadium
+83,2022,Mohali,2020-03-23,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,32,1,MA Chidambaram Stadium
+84,2024,Chennai,2020-03-24,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,15,7,Eden Gardens
+85,2022,Bangalore,2020-03-25,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,18,4,Eden Gardens
+86,2022,Delhi,2020-03-26,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,73,2,M Chinnaswamy Stadium
+87,2024,Chennai,2020-03-27,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,3,7,Eden Gardens
+88,2021,Bangalore,2020-03-28,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,54,3,Wankhede Stadium
+89,2022,Mohali,2020-03-29,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,28,4,Wankhede Stadium
+90,2021,Mohali,2020-03-30,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,73,2,MA Chidambaram Stadium
+91,2024,Mumbai,2020-03-31,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,1,1,M Chinnaswamy Stadium
+92,2020,Delhi,2020-04-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,23,9,Eden Gardens
+93,2022,Hyderabad,2020-04-02,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,37,4,MA Chidambaram Stadium
+94,2020,Delhi,2020-04-03,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,93,3,M Chinnaswamy Stadium
+95,2021,Chennai,2020-04-04,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,30,5,Wankhede Stadium
+96,2024,Chennai,2020-04-05,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,33,2,MA Chidambaram Stadium
+97,2023,Hyderabad,2020-04-06,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,normal,0,Chennai Super Kings,79,9,M Chinnaswamy Stadium
+98,2021,Mumbai,2020-04-07,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,tie,1,Kolkata Knight Riders,61,6,MA Chidambaram Stadium
+99,2024,Kolkata,2020-04-08,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,1,3,M Chinnaswamy Stadium
+100,2024,Delhi,2020-04-09,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,77,5,M Chinnaswamy Stadium
+101,2020,Delhi,2020-04-10,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,19,9,Wankhede Stadium
+102,2020,Mohali,2020-04-11,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,80,1,MA Chidambaram Stadium
+103,2024,Bangalore,2020-04-12,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,69,9,M Chinnaswamy Stadium
+104,2023,Hyderabad,2020-04-13,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,77,8,Wankhede Stadium
+105,2022,Mumbai,2020-04-14,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Kolkata Knight Riders,82,2,Wankhede Stadium
+106,2021,Mohali,2020-04-15,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Mumbai Indians,38,7,MA Chidambaram Stadium
+107,2024,Kolkata,2020-04-16,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,39,4,MA Chidambaram Stadium
+108,2022,Jaipur,2020-04-17,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,1,Mumbai Indians,62,4,MA Chidambaram Stadium
+109,2022,Jaipur,2020-04-18,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,1,Chennai Super Kings,0,3,M Chinnaswamy Stadium
+110,2020,Bangalore,2020-04-19,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,33,2,M Chinnaswamy Stadium
+111,2023,Mohali,2020-04-20,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,62,0,Wankhede Stadium
+112,2024,Hyderabad,2020-04-21,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,14,2,MA Chidambaram Stadium
+113,2024,Mumbai,2020-04-22,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,field,normal,0,Kolkata Knight Riders,28,0,Wankhede Stadium
+114,2022,Jaipur,2020-04-23,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,3,1,MA Chidambaram Stadium
+115,2024,Mumbai,2020-04-24,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,bat,tie,1,Royal Challengers Bangalore,90,8,Eden Gardens
+116,2023,Hyderabad,2020-04-25,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,1,Royal Challengers Bangalore,25,0,M Chinnaswamy Stadium
+117,2022,Bangalore,2020-04-26,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,68,3,M Chinnaswamy Stadium
+118,2021,Kolkata,2020-04-27,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,56,3,Eden Gardens
+119,2020,Hyderabad,2020-04-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,37,6,Wankhede Stadium
+120,2021,Hyderabad,2020-04-29,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,91,5,Wankhede Stadium
+121,2021,Hyderabad,2020-04-30,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,23,7,MA Chidambaram Stadium
+122,2023,Hyderabad,2020-05-01,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,1,Chennai Super Kings,32,9,M Chinnaswamy Stadium
+123,2020,Kolkata,2020-05-02,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,0,Chennai Super Kings,22,8,Eden Gardens
+124,2022,Mumbai,2020-05-03,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,10,5,M Chinnaswamy Stadium
+125,2024,Mohali,2020-05-04,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,86,5,M Chinnaswamy Stadium
+126,2024,Chennai,2020-05-05,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,62,7,MA Chidambaram Stadium
+127,2021,Hyderabad,2020-05-06,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,1,Royal Challengers Bangalore,20,5,Eden Gardens
+128,2021,Bangalore,2020-05-07,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,77,2,MA Chidambaram Stadium
+129,2023,Bangalore,2020-05-08,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,86,2,M Chinnaswamy Stadium
+130,2024,Mohali,2020-05-09,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Mumbai Indians,90,6,Eden Gardens
+131,2023,Kolkata,2020-05-10,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,tie,0,Kolkata Knight Riders,48,2,M Chinnaswamy Stadium
+132,2021,Kolkata,2020-05-11,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,14,5,Wankhede Stadium
+133,2020,Chennai,2020-05-12,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Chennai Super Kings,38,0,Wankhede Stadium
+134,2024,Delhi,2020-05-13,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,89,7,Wankhede Stadium
+135,2023,Kolkata,2020-05-14,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,51,7,Wankhede Stadium
+136,2024,Bangalore,2020-05-15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,6,6,Eden Gardens
+137,2021,Chennai,2020-05-16,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,tie,0,Mumbai Indians,31,7,Eden Gardens
+138,2022,Delhi,2020-05-17,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,9,8,MA Chidambaram Stadium
+139,2023,Mumbai,2020-05-18,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,81,0,M Chinnaswamy Stadium
+140,2022,Kolkata,2020-05-19,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,85,5,Wankhede Stadium
+141,2020,Jaipur,2020-05-20,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,73,4,Wankhede Stadium
+142,2020,Mumbai,2020-05-21,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,tie,0,Kolkata Knight Riders,70,6,Wankhede Stadium
+143,2021,Mohali,2020-05-22,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,72,8,Wankhede Stadium
+144,2024,Hyderabad,2020-05-23,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,normal,0,Kolkata Knight Riders,9,9,M Chinnaswamy Stadium
+145,2024,Delhi,2020-05-24,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,37,9,Eden Gardens
+146,2020,Bangalore,2020-05-25,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,21,8,MA Chidambaram Stadium
+147,2023,Chennai,2020-05-26,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,1,Chennai Super Kings,52,7,Eden Gardens
+148,2024,Mohali,2020-05-27,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,97,8,MA Chidambaram Stadium
+149,2023,Hyderabad,2020-05-28,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,58,1,M Chinnaswamy Stadium
+150,2020,Chennai,2020-05-29,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,35,6,Wankhede Stadium
+151,2020,Mumbai,2020-05-30,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,80,1,Eden Gardens
+152,2024,Jaipur,2020-05-31,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,89,5,Wankhede Stadium
+153,2020,Mohali,2020-06-01,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,tie,1,Chennai Super Kings,42,1,MA Chidambaram Stadium
+154,2022,Bangalore,2020-06-02,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,7,6,Wankhede Stadium
+155,2021,Bangalore,2020-06-03,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,74,9,Eden Gardens
+156,2023,Kolkata,2020-06-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,79,7,Wankhede Stadium
+157,2020,Chennai,2020-06-05,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,27,0,Eden Gardens
+158,2022,Hyderabad,2020-06-06,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,73,4,M Chinnaswamy Stadium
+159,2020,Delhi,2020-06-07,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,48,7,Eden Gardens
+160,2022,Jaipur,2020-06-08,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,normal,1,Mumbai Indians,64,0,Wankhede Stadium
+161,2024,Bangalore,2020-06-09,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,92,7,Eden Gardens
+162,2021,Mohali,2020-06-10,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Mumbai Indians,38,0,MA Chidambaram Stadium
+163,2022,Kolkata,2020-06-11,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,96,4,Eden Gardens
+164,2024,Chennai,2020-06-12,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,84,4,Wankhede Stadium
+165,2020,Hyderabad,2020-06-13,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,55,6,Wankhede Stadium
+166,2023,Mumbai,2020-06-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,69,1,Wankhede Stadium
+167,2024,Kolkata,2020-06-15,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,tie,0,Chennai Super Kings,29,3,MA Chidambaram Stadium
+168,2024,Jaipur,2020-06-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,52,5,M Chinnaswamy Stadium
+169,2023,Chennai,2020-06-17,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,96,6,MA Chidambaram Stadium
+170,2021,Jaipur,2020-06-18,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,32,8,M Chinnaswamy Stadium
+171,2023,Bangalore,2020-06-19,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,8,7,M Chinnaswamy Stadium
+172,2020,Kolkata,2020-06-20,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,31,8,M Chinnaswamy Stadium
+173,2020,Mumbai,2020-06-21,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,44,1,Eden Gardens
+174,2022,Mohali,2020-06-22,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,27,3,Wankhede Stadium
+175,2023,Hyderabad,2020-06-23,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,22,1,Eden Gardens
+176,2024,Chennai,2020-06-24,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,normal,0,Chennai Super Kings,8,4,MA Chidambaram Stadium
+177,2022,Jaipur,2020-06-25,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,57,5,MA Chidambaram Stadium
+178,2023,Kolkata,2020-06-26,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,44,4,Wankhede Stadium
+179,2023,Kolkata,2020-06-27,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,91,4,M Chinnaswamy Stadium
+180,2020,Chennai,2020-06-28,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Mumbai Indians,86,5,MA Chidambaram Stadium
+181,2024,Mohali,2020-06-29,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,tie,0,Chennai Super Kings,18,2,Wankhede Stadium
+182,2022,Mohali,2020-06-30,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Mumbai Indians,54,1,Eden Gardens
+183,2024,Jaipur,2020-07-01,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,40,2,Eden Gardens
+184,2023,Jaipur,2020-07-02,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,27,8,M Chinnaswamy Stadium
+185,2023,Delhi,2020-07-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,56,7,MA Chidambaram Stadium
+186,2021,Kolkata,2020-07-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,12,6,M Chinnaswamy Stadium
+187,2023,Delhi,2020-07-05,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,80,6,Wankhede Stadium
+188,2021,Jaipur,2020-07-06,Mumbai Indians,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,11,1,MA Chidambaram Stadium
+189,2021,Hyderabad,2020-07-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,5,3,Wankhede Stadium
+190,2020,Bangalore,2020-07-08,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,55,9,Eden Gardens
+191,2021,Mumbai,2020-07-09,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,14,7,Wankhede Stadium
+192,2024,Mumbai,2020-07-10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,39,4,Eden Gardens
+193,2022,Kolkata,2020-07-11,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,tie,1,Kolkata Knight Riders,43,1,Eden Gardens
+194,2020,Mohali,2020-07-12,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,34,9,M Chinnaswamy Stadium
+195,2020,Mohali,2020-07-13,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,46,6,Eden Gardens
+196,2020,Bangalore,2020-07-14,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,44,1,Eden Gardens
+197,2023,Hyderabad,2020-07-15,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,57,3,Eden Gardens
+198,2024,Mumbai,2020-07-16,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,4,8,Wankhede Stadium
+199,2021,Delhi,2020-07-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Mumbai Indians,26,4,Wankhede Stadium
+200,2021,Hyderabad,2020-07-18,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,91,7,MA Chidambaram Stadium
+201,2024,Delhi,2020-07-19,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,1,Mumbai Indians,53,7,Eden Gardens
+202,2020,Delhi,2020-07-20,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,14,7,M Chinnaswamy Stadium
+203,2024,Mohali,2020-07-21,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,76,5,M Chinnaswamy Stadium
+204,2022,Kolkata,2020-07-22,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,51,4,Wankhede Stadium
+205,2024,Kolkata,2020-07-23,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,22,4,Wankhede Stadium
+206,2024,Bangalore,2020-07-24,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,50,3,Eden Gardens
+207,2021,Bangalore,2020-07-25,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,71,2,MA Chidambaram Stadium
+208,2021,Chennai,2020-07-26,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,42,7,M Chinnaswamy Stadium
+209,2020,Hyderabad,2020-07-27,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,40,5,Eden Gardens
+210,2021,Jaipur,2020-07-28,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,1,Chennai Super Kings,96,2,M Chinnaswamy Stadium
+211,2020,Mohali,2020-07-29,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,39,7,M Chinnaswamy Stadium
+212,2021,Chennai,2020-07-30,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,35,4,Wankhede Stadium
+213,2023,Bangalore,2020-07-31,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,90,2,Eden Gardens
+214,2024,Hyderabad,2020-08-01,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,82,5,M Chinnaswamy Stadium
+215,2022,Mohali,2020-08-02,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,72,7,Wankhede Stadium
+216,2024,Bangalore,2020-08-03,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,tie,0,Chennai Super Kings,12,8,Wankhede Stadium
+217,2020,Mohali,2020-08-04,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,45,3,M Chinnaswamy Stadium
+218,2021,Jaipur,2020-08-05,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,20,1,Eden Gardens
+219,2020,Chennai,2020-08-06,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,tie,0,Chennai Super Kings,34,7,Wankhede Stadium
+220,2021,Hyderabad,2020-08-07,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,1,Mumbai Indians,47,9,MA Chidambaram Stadium
+221,2024,Chennai,2020-08-08,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,22,4,Wankhede Stadium
+222,2021,Bangalore,2020-08-09,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Mumbai Indians,16,7,Eden Gardens
+223,2021,Bangalore,2020-08-10,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,71,0,Wankhede Stadium
+224,2022,Kolkata,2020-08-11,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,tie,0,Mumbai Indians,46,0,M Chinnaswamy Stadium
+225,2021,Mumbai,2020-08-12,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Mumbai Indians,72,7,MA Chidambaram Stadium
+226,2023,Mumbai,2020-08-13,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,81,3,Wankhede Stadium
+227,2024,Chennai,2020-08-14,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,14,1,Eden Gardens
+228,2022,Delhi,2020-08-15,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,32,4,MA Chidambaram Stadium
+229,2022,Chennai,2020-08-16,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,69,4,Eden Gardens
+230,2020,Mumbai,2020-08-17,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,74,0,M Chinnaswamy Stadium
+231,2021,Delhi,2020-08-18,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Mumbai Indians,55,5,Eden Gardens
+232,2024,Jaipur,2020-08-19,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,1,Chennai Super Kings,61,1,M Chinnaswamy Stadium
+233,2020,Mohali,2020-08-20,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,1,Kolkata Knight Riders,23,3,M Chinnaswamy Stadium
+234,2022,Mohali,2020-08-21,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Mumbai Indians,49,4,Eden Gardens
+235,2023,Hyderabad,2020-08-22,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,normal,1,Mumbai Indians,92,7,MA Chidambaram Stadium
+236,2024,Mumbai,2020-08-23,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,1,Mumbai Indians,44,3,Eden Gardens
+237,2023,Bangalore,2020-08-24,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,26,3,Eden Gardens
+238,2021,Bangalore,2020-08-25,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,tie,1,Mumbai Indians,30,3,M Chinnaswamy Stadium
+239,2022,Mohali,2020-08-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Chennai Super Kings,8,7,M Chinnaswamy Stadium
+240,2022,Kolkata,2020-08-27,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,38,9,Eden Gardens
+241,2022,Bangalore,2020-08-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,15,6,Eden Gardens
+242,2023,Mumbai,2020-08-29,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,98,3,Wankhede Stadium
+243,2023,Kolkata,2020-08-30,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,bat,normal,0,Mumbai Indians,67,3,Wankhede Stadium
+244,2021,Hyderabad,2020-08-31,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,99,5,Wankhede Stadium
+245,2023,Mumbai,2020-09-01,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,bat,tie,0,Chennai Super Kings,94,4,M Chinnaswamy Stadium
+246,2020,Delhi,2020-09-02,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,51,9,MA Chidambaram Stadium
+247,2021,Bangalore,2020-09-03,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,22,4,Eden Gardens
+248,2022,Mumbai,2020-09-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,1,Kolkata Knight Riders,40,9,MA Chidambaram Stadium
+249,2022,Hyderabad,2020-09-05,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,1,Chennai Super Kings,35,7,MA Chidambaram Stadium
+250,2022,Hyderabad,2020-09-06,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,75,7,MA Chidambaram Stadium
+251,2020,Mohali,2020-09-07,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,1,7,MA Chidambaram Stadium
+252,2022,Kolkata,2020-09-08,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,10,7,MA Chidambaram Stadium
+253,2022,Mohali,2020-09-09,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Kolkata Knight Riders,60,7,Wankhede Stadium
+254,2022,Hyderabad,2020-09-10,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,57,2,MA Chidambaram Stadium
+255,2021,Hyderabad,2020-09-11,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,51,2,MA Chidambaram Stadium
+256,2024,Hyderabad,2020-09-12,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,99,0,Eden Gardens
+257,2024,Jaipur,2020-09-13,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,95,6,Wankhede Stadium
+258,2020,Bangalore,2020-09-14,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,62,5,Eden Gardens
+259,2021,Jaipur,2020-09-15,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,80,2,MA Chidambaram Stadium
+260,2024,Hyderabad,2020-09-16,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,28,0,Eden Gardens
+261,2022,Chennai,2020-09-17,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,tie,1,Chennai Super Kings,21,4,Wankhede Stadium
+262,2020,Delhi,2020-09-18,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,10,2,M Chinnaswamy Stadium
+263,2021,Hyderabad,2020-09-19,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,27,6,Eden Gardens
+264,2023,Delhi,2020-09-20,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,86,3,MA Chidambaram Stadium
+265,2020,Bangalore,2020-09-21,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,25,0,Eden Gardens
+266,2022,Hyderabad,2020-09-22,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,tie,0,Chennai Super Kings,60,2,M Chinnaswamy Stadium
+267,2023,Delhi,2020-09-23,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,tie,0,Mumbai Indians,89,9,M Chinnaswamy Stadium
+268,2020,Mohali,2020-09-24,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,17,4,Eden Gardens
+269,2021,Bangalore,2020-09-25,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,80,5,MA Chidambaram Stadium
+270,2020,Bangalore,2020-09-26,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,normal,0,Kolkata Knight Riders,57,0,Wankhede Stadium
+271,2022,Hyderabad,2020-09-27,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,1,Kolkata Knight Riders,58,2,Wankhede Stadium
+272,2022,Jaipur,2020-09-28,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,16,7,M Chinnaswamy Stadium
+273,2024,Jaipur,2020-09-29,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,13,6,MA Chidambaram Stadium
+274,2023,Hyderabad,2020-09-30,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,17,4,Eden Gardens
+275,2022,Hyderabad,2020-10-01,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Mumbai Indians,15,4,M Chinnaswamy Stadium
+276,2023,Hyderabad,2020-10-02,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,tie,0,Chennai Super Kings,68,4,MA Chidambaram Stadium
+277,2022,Hyderabad,2020-10-03,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,39,2,Eden Gardens
+278,2020,Mumbai,2020-10-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,12,4,Wankhede Stadium
+279,2024,Chennai,2020-10-05,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,43,1,M Chinnaswamy Stadium
+280,2021,Chennai,2020-10-06,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,1,Royal Challengers Bangalore,13,3,Eden Gardens
+281,2023,Chennai,2020-10-07,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Mumbai Indians,63,2,MA Chidambaram Stadium
+282,2022,Jaipur,2020-10-08,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Mumbai Indians,93,2,Wankhede Stadium
+283,2020,Bangalore,2020-10-09,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Mumbai Indians,77,2,Eden Gardens
+284,2020,Mumbai,2020-10-10,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,tie,0,Kolkata Knight Riders,83,5,M Chinnaswamy Stadium
+285,2022,Mumbai,2020-10-11,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,66,6,M Chinnaswamy Stadium
+286,2023,Kolkata,2020-10-12,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,12,9,MA Chidambaram Stadium
+287,2021,Chennai,2020-10-13,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,73,8,M Chinnaswamy Stadium
+288,2024,Mohali,2020-10-14,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,43,4,Eden Gardens
+289,2020,Chennai,2020-10-15,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,37,6,Eden Gardens
+290,2022,Jaipur,2020-10-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,31,8,MA Chidambaram Stadium
+291,2023,Hyderabad,2020-10-17,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,85,4,MA Chidambaram Stadium
+292,2023,Kolkata,2020-10-18,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,9,5,Wankhede Stadium
+293,2022,Hyderabad,2020-10-19,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,43,2,Wankhede Stadium
+294,2021,Chennai,2020-10-20,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Chennai Super Kings,62,1,Wankhede Stadium
+295,2022,Delhi,2020-10-21,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,49,6,MA Chidambaram Stadium
+296,2020,Hyderabad,2020-10-22,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,68,0,M Chinnaswamy Stadium
+297,2022,Mumbai,2020-10-23,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,1,Mumbai Indians,6,1,Wankhede Stadium
+298,2024,Delhi,2020-10-24,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,36,9,Wankhede Stadium
+299,2021,Mohali,2020-10-25,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Mumbai Indians,95,8,Wankhede Stadium
+300,2023,Bangalore,2020-10-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Chennai Super Kings,23,8,M Chinnaswamy Stadium
+301,2024,Delhi,2020-10-27,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,normal,1,Kolkata Knight Riders,55,0,M Chinnaswamy Stadium
+302,2022,Kolkata,2020-10-28,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,normal,1,Kolkata Knight Riders,33,4,M Chinnaswamy Stadium
+303,2023,Hyderabad,2020-10-29,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Chennai Super Kings,39,0,Wankhede Stadium
+304,2023,Jaipur,2020-10-30,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,21,8,Eden Gardens
+305,2023,Bangalore,2020-10-31,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,1,Royal Challengers Bangalore,25,9,Eden Gardens
+306,2020,Bangalore,2020-11-01,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,1,Royal Challengers Bangalore,64,7,M Chinnaswamy Stadium
+307,2024,Mumbai,2020-11-02,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,31,8,M Chinnaswamy Stadium
+308,2020,Kolkata,2020-11-03,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,58,4,M Chinnaswamy Stadium
+309,2020,Jaipur,2020-11-04,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,field,normal,1,Chennai Super Kings,74,1,Wankhede Stadium
+310,2021,Chennai,2020-11-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,99,8,Eden Gardens
+311,2020,Bangalore,2020-11-06,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,33,1,M Chinnaswamy Stadium
+312,2020,Hyderabad,2020-11-07,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,1,9,MA Chidambaram Stadium
+313,2024,Mohali,2020-11-08,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,14,4,MA Chidambaram Stadium
+314,2020,Kolkata,2020-11-09,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,49,4,M Chinnaswamy Stadium
+315,2020,Chennai,2020-11-10,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,tie,0,Mumbai Indians,7,5,MA Chidambaram Stadium
+316,2024,Jaipur,2020-11-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,55,9,Eden Gardens
+317,2021,Jaipur,2020-11-12,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,18,8,Wankhede Stadium
+318,2021,Mumbai,2020-11-13,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,67,7,M Chinnaswamy Stadium
+319,2022,Mumbai,2020-11-14,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,8,8,M Chinnaswamy Stadium
+320,2022,Mohali,2020-11-15,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,30,5,M Chinnaswamy Stadium
+321,2021,Mohali,2020-11-16,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,90,5,Eden Gardens
+322,2023,Kolkata,2020-11-17,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Chennai Super Kings,42,7,MA Chidambaram Stadium
+323,2024,Bangalore,2020-11-18,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,79,4,M Chinnaswamy Stadium
+324,2022,Delhi,2020-11-19,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,tie,1,Royal Challengers Bangalore,14,0,Wankhede Stadium
+325,2020,Hyderabad,2020-11-20,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,29,9,Wankhede Stadium
+326,2024,Jaipur,2020-11-21,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,25,5,M Chinnaswamy Stadium
+327,2020,Hyderabad,2020-11-22,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,2,4,Eden Gardens
+328,2024,Delhi,2020-11-23,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,43,1,MA Chidambaram Stadium
+329,2021,Delhi,2020-11-24,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,83,3,M Chinnaswamy Stadium
+330,2020,Mumbai,2020-11-25,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,89,1,M Chinnaswamy Stadium
+331,2021,Bangalore,2020-11-26,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,85,2,Eden Gardens
+332,2020,Mumbai,2020-11-27,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,35,1,M Chinnaswamy Stadium
+333,2023,Chennai,2020-11-28,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,67,3,Eden Gardens
+334,2023,Chennai,2020-11-29,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Mumbai Indians,41,5,Eden Gardens
+335,2023,Jaipur,2020-11-30,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,tie,0,Mumbai Indians,15,6,Wankhede Stadium
+336,2024,Chennai,2020-12-01,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,54,1,M Chinnaswamy Stadium
+337,2024,Delhi,2020-12-02,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,7,0,M Chinnaswamy Stadium
+338,2023,Mumbai,2020-12-03,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,50,7,Wankhede Stadium
+339,2021,Jaipur,2020-12-04,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,1,Mumbai Indians,93,2,M Chinnaswamy Stadium
+340,2022,Kolkata,2020-12-05,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,9,0,M Chinnaswamy Stadium
+341,2021,Kolkata,2020-12-06,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,40,6,Wankhede Stadium
+342,2024,Mumbai,2020-12-07,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,tie,0,Chennai Super Kings,81,5,M Chinnaswamy Stadium
+343,2024,Mumbai,2020-12-08,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,42,7,MA Chidambaram Stadium
+344,2021,Jaipur,2020-12-09,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,normal,1,Kolkata Knight Riders,97,6,M Chinnaswamy Stadium
+345,2020,Delhi,2020-12-10,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,1,Mumbai Indians,31,0,MA Chidambaram Stadium
+346,2021,Delhi,2020-12-11,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,2,2,M Chinnaswamy Stadium
+347,2023,Jaipur,2020-12-12,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,68,7,Wankhede Stadium
+348,2021,Bangalore,2020-12-13,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,2,7,Wankhede Stadium
+349,2021,Jaipur,2020-12-14,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,47,3,Wankhede Stadium
+350,2024,Hyderabad,2020-12-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,16,6,MA Chidambaram Stadium
+351,2021,Bangalore,2020-12-16,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,8,0,Eden Gardens
+352,2023,Jaipur,2020-12-17,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,64,3,M Chinnaswamy Stadium
+353,2024,Mohali,2020-12-18,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Kolkata Knight Riders,33,8,Eden Gardens
+354,2022,Mohali,2020-12-19,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,51,1,Eden Gardens
+355,2022,Mumbai,2020-12-20,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,tie,0,Mumbai Indians,79,7,MA Chidambaram Stadium
+356,2024,Delhi,2020-12-21,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,88,9,M Chinnaswamy Stadium
+357,2024,Chennai,2020-12-22,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,69,8,M Chinnaswamy Stadium
+358,2020,Hyderabad,2020-12-23,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,1,Mumbai Indians,81,2,M Chinnaswamy Stadium
+359,2022,Mohali,2020-12-24,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,61,3,M Chinnaswamy Stadium
+360,2021,Mohali,2020-12-25,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,54,7,M Chinnaswamy Stadium
+361,2022,Hyderabad,2020-12-26,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,0,Mumbai Indians,90,1,MA Chidambaram Stadium
+362,2020,Chennai,2020-12-27,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,85,0,MA Chidambaram Stadium
+363,2024,Kolkata,2020-12-28,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,98,5,MA Chidambaram Stadium
+364,2020,Jaipur,2020-12-29,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,normal,0,Chennai Super Kings,75,0,MA Chidambaram Stadium
+365,2022,Chennai,2020-12-30,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,71,5,M Chinnaswamy Stadium
+366,2024,Chennai,2020-12-31,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,99,0,Wankhede Stadium
+367,2023,Hyderabad,2021-01-01,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Chennai Super Kings,12,1,M Chinnaswamy Stadium
+368,2024,Delhi,2021-01-02,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,41,5,Wankhede Stadium
+369,2022,Mohali,2021-01-03,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,37,7,M Chinnaswamy Stadium
+370,2021,Chennai,2021-01-04,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,tie,0,Kolkata Knight Riders,83,0,Wankhede Stadium
+371,2023,Hyderabad,2021-01-05,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,1,Mumbai Indians,5,0,MA Chidambaram Stadium
+372,2023,Chennai,2021-01-06,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,26,5,Wankhede Stadium
+373,2020,Mumbai,2021-01-07,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,tie,0,Chennai Super Kings,84,4,M Chinnaswamy Stadium
+374,2023,Bangalore,2021-01-08,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,75,9,MA Chidambaram Stadium
+375,2020,Hyderabad,2021-01-09,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,50,3,MA Chidambaram Stadium
+376,2023,Mohali,2021-01-10,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,8,4,M Chinnaswamy Stadium
+377,2023,Chennai,2021-01-11,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,90,3,M Chinnaswamy Stadium
+378,2021,Delhi,2021-01-12,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,tie,0,Chennai Super Kings,89,1,Eden Gardens
+379,2024,Mumbai,2021-01-13,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,74,9,Wankhede Stadium
+380,2021,Bangalore,2021-01-14,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,69,7,Eden Gardens
+381,2023,Kolkata,2021-01-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,1,Chennai Super Kings,88,4,Wankhede Stadium
+382,2023,Chennai,2021-01-16,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,normal,1,Chennai Super Kings,38,5,Wankhede Stadium
+383,2020,Hyderabad,2021-01-17,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,74,4,Eden Gardens
+384,2021,Hyderabad,2021-01-18,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,80,5,Eden Gardens
+385,2023,Mumbai,2021-01-19,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,8,3,Wankhede Stadium
+386,2022,Mumbai,2021-01-20,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,79,2,Wankhede Stadium
+387,2022,Chennai,2021-01-21,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Chennai Super Kings,2,3,Eden Gardens
+388,2021,Mohali,2021-01-22,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,1,0,M Chinnaswamy Stadium
+389,2023,Mumbai,2021-01-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,86,9,M Chinnaswamy Stadium
+390,2020,Mohali,2021-01-24,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,39,0,Wankhede Stadium
+391,2020,Bangalore,2021-01-25,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,1,Royal Challengers Bangalore,35,5,M Chinnaswamy Stadium
+392,2023,Kolkata,2021-01-26,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,28,2,Wankhede Stadium
+393,2020,Jaipur,2021-01-27,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,3,0,Eden Gardens
+394,2024,Delhi,2021-01-28,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,23,1,MA Chidambaram Stadium
+395,2020,Hyderabad,2021-01-29,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,29,9,M Chinnaswamy Stadium
+396,2021,Hyderabad,2021-01-30,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,89,7,MA Chidambaram Stadium
+397,2020,Mohali,2021-01-31,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,74,0,Wankhede Stadium
+398,2022,Kolkata,2021-02-01,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,20,5,M Chinnaswamy Stadium
+399,2022,Jaipur,2021-02-02,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,15,0,M Chinnaswamy Stadium
+400,2021,Mumbai,2021-02-03,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,64,3,MA Chidambaram Stadium
+401,2024,Delhi,2021-02-04,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,87,0,Eden Gardens
+402,2021,Kolkata,2021-02-05,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,43,2,Wankhede Stadium
+403,2023,Kolkata,2021-02-06,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,1,Royal Challengers Bangalore,88,9,Wankhede Stadium
+404,2021,Delhi,2021-02-07,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,48,0,M Chinnaswamy Stadium
+405,2024,Hyderabad,2021-02-08,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,75,7,MA Chidambaram Stadium
+406,2022,Bangalore,2021-02-09,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,93,8,Wankhede Stadium
+407,2022,Hyderabad,2021-02-10,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,1,6,MA Chidambaram Stadium
+408,2022,Bangalore,2021-02-11,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,tie,0,Mumbai Indians,58,6,MA Chidambaram Stadium
+409,2023,Hyderabad,2021-02-12,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,bat,tie,0,Mumbai Indians,3,1,MA Chidambaram Stadium
+410,2023,Chennai,2021-02-13,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Mumbai Indians,19,3,MA Chidambaram Stadium
+411,2023,Bangalore,2021-02-14,Mumbai Indians,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,82,9,Wankhede Stadium
+412,2021,Delhi,2021-02-15,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,7,7,Eden Gardens
+413,2022,Hyderabad,2021-02-16,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,1,Royal Challengers Bangalore,70,1,Wankhede Stadium
+414,2024,Delhi,2021-02-17,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,44,0,MA Chidambaram Stadium
+415,2022,Kolkata,2021-02-18,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Mumbai Indians,54,7,Eden Gardens
+416,2024,Hyderabad,2021-02-19,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,72,2,Eden Gardens
+417,2022,Mohali,2021-02-20,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,55,3,Wankhede Stadium
+418,2024,Hyderabad,2021-02-21,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,6,5,M Chinnaswamy Stadium
+419,2024,Chennai,2021-02-22,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,59,7,Eden Gardens
+420,2024,Delhi,2021-02-23,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,tie,0,Chennai Super Kings,67,3,M Chinnaswamy Stadium
+421,2023,Mumbai,2021-02-24,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,84,9,Eden Gardens
+422,2023,Jaipur,2021-02-25,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,5,9,Wankhede Stadium
+423,2023,Mohali,2021-02-26,Chennai Super Kings,Punjab Kings,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,32,9,M Chinnaswamy Stadium
+424,2020,Jaipur,2021-02-27,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,normal,0,Chennai Super Kings,57,5,Eden Gardens
+425,2020,Hyderabad,2021-02-28,Mumbai Indians,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,51,1,M Chinnaswamy Stadium
+426,2020,Chennai,2021-03-01,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,63,8,Eden Gardens
+427,2021,Mohali,2021-03-02,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,74,7,MA Chidambaram Stadium
+428,2020,Hyderabad,2021-03-03,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,93,8,Eden Gardens
+429,2021,Delhi,2021-03-04,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,36,5,M Chinnaswamy Stadium
+430,2020,Kolkata,2021-03-05,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,42,9,M Chinnaswamy Stadium
+431,2021,Chennai,2021-03-06,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,65,7,MA Chidambaram Stadium
+432,2020,Delhi,2021-03-07,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,24,2,Wankhede Stadium
+433,2020,Jaipur,2021-03-08,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,28,1,Wankhede Stadium
+434,2024,Kolkata,2021-03-09,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,80,4,Eden Gardens
+435,2024,Hyderabad,2021-03-10,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,4,2,Eden Gardens
+436,2024,Mohali,2021-03-11,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,38,1,Eden Gardens
+437,2020,Mohali,2021-03-12,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,42,6,M Chinnaswamy Stadium
+438,2023,Kolkata,2021-03-13,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,1,Mumbai Indians,84,8,M Chinnaswamy Stadium
+439,2023,Jaipur,2021-03-14,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,34,0,MA Chidambaram Stadium
+440,2024,Chennai,2021-03-15,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,45,9,MA Chidambaram Stadium
+441,2020,Kolkata,2021-03-16,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,40,1,Eden Gardens
+442,2021,Chennai,2021-03-17,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,82,2,MA Chidambaram Stadium
+443,2023,Kolkata,2021-03-18,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,24,9,M Chinnaswamy Stadium
+444,2024,Mumbai,2021-03-19,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,35,3,Wankhede Stadium
+445,2023,Mohali,2021-03-20,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,36,6,Eden Gardens
+446,2020,Chennai,2021-03-21,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,0,Mumbai Indians,6,1,MA Chidambaram Stadium
+447,2020,Mumbai,2021-03-22,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,40,9,MA Chidambaram Stadium
+448,2024,Chennai,2021-03-23,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,45,3,Wankhede Stadium
+449,2024,Jaipur,2021-03-24,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,82,7,Wankhede Stadium
+450,2022,Delhi,2021-03-25,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,1,Kolkata Knight Riders,7,8,MA Chidambaram Stadium
+451,2024,Chennai,2021-03-26,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,39,6,Eden Gardens
+452,2024,Mohali,2021-03-27,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,23,8,M Chinnaswamy Stadium
+453,2022,Chennai,2021-03-28,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,60,4,Eden Gardens
+454,2021,Chennai,2021-03-29,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,43,6,MA Chidambaram Stadium
+455,2024,Kolkata,2021-03-30,Mumbai Indians,Punjab Kings,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,80,8,Wankhede Stadium
+456,2022,Jaipur,2021-03-31,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,44,2,Wankhede Stadium
+457,2021,Bangalore,2021-04-01,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,72,3,MA Chidambaram Stadium
+458,2020,Delhi,2021-04-02,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,88,5,M Chinnaswamy Stadium
+459,2022,Hyderabad,2021-04-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,1,Kolkata Knight Riders,62,7,M Chinnaswamy Stadium
+460,2021,Bangalore,2021-04-04,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,96,0,M Chinnaswamy Stadium
+461,2020,Bangalore,2021-04-05,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,1,Chennai Super Kings,97,7,Wankhede Stadium
+462,2024,Jaipur,2021-04-06,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,25,3,MA Chidambaram Stadium
+463,2022,Chennai,2021-04-07,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,bat,tie,0,Chennai Super Kings,43,9,Wankhede Stadium
+464,2020,Kolkata,2021-04-08,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,59,5,M Chinnaswamy Stadium
+465,2024,Kolkata,2021-04-09,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,59,4,Wankhede Stadium
+466,2020,Mohali,2021-04-10,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,83,3,M Chinnaswamy Stadium
+467,2020,Mumbai,2021-04-11,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,34,3,M Chinnaswamy Stadium
+468,2021,Kolkata,2021-04-12,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,0,Mumbai Indians,16,4,M Chinnaswamy Stadium
+469,2021,Mohali,2021-04-13,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,2,9,MA Chidambaram Stadium
+470,2022,Mumbai,2021-04-14,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,72,3,Wankhede Stadium
+471,2023,Hyderabad,2021-04-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,98,1,Eden Gardens
+472,2024,Bangalore,2021-04-16,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,1,Chennai Super Kings,9,8,MA Chidambaram Stadium
+473,2023,Mohali,2021-04-17,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,1,Chennai Super Kings,50,5,Wankhede Stadium
+474,2024,Mohali,2021-04-18,Mumbai Indians,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,23,4,MA Chidambaram Stadium
+475,2020,Delhi,2021-04-19,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,83,9,Wankhede Stadium
+476,2020,Delhi,2021-04-20,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,49,3,Eden Gardens
+477,2023,Bangalore,2021-04-21,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Mumbai Indians,50,7,MA Chidambaram Stadium
+478,2020,Jaipur,2021-04-22,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,77,2,MA Chidambaram Stadium
+479,2021,Chennai,2021-04-23,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,61,1,Wankhede Stadium
+480,2024,Hyderabad,2021-04-24,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,69,5,MA Chidambaram Stadium
+481,2020,Kolkata,2021-04-25,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,78,0,Eden Gardens
+482,2021,Kolkata,2021-04-26,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,14,2,Eden Gardens
+483,2024,Delhi,2021-04-27,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,33,8,Wankhede Stadium
+484,2021,Mumbai,2021-04-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,4,1,Eden Gardens
+485,2020,Jaipur,2021-04-29,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,38,9,MA Chidambaram Stadium
+486,2020,Jaipur,2021-04-30,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,7,1,Wankhede Stadium
+487,2020,Delhi,2021-05-01,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Mumbai Indians,46,9,MA Chidambaram Stadium
+488,2023,Mohali,2021-05-02,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,0,Mumbai Indians,47,1,MA Chidambaram Stadium
+489,2022,Bangalore,2021-05-03,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,21,2,M Chinnaswamy Stadium
+490,2022,Mumbai,2021-05-04,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,40,4,MA Chidambaram Stadium
+491,2022,Bangalore,2021-05-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,2,9,MA Chidambaram Stadium
+492,2024,Delhi,2021-05-06,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,73,7,Eden Gardens
+493,2020,Bangalore,2021-05-07,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,11,9,Eden Gardens
+494,2022,Mohali,2021-05-08,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,3,2,Eden Gardens
+495,2021,Mohali,2021-05-09,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,50,0,Wankhede Stadium
+496,2022,Delhi,2021-05-10,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,77,6,Wankhede Stadium
+497,2022,Delhi,2021-05-11,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,14,0,M Chinnaswamy Stadium
+498,2022,Mumbai,2021-05-12,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,61,8,M Chinnaswamy Stadium
+499,2023,Delhi,2021-05-13,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,1,Mumbai Indians,67,6,MA Chidambaram Stadium
+500,2024,Mumbai,2021-05-14,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,1,Kolkata Knight Riders,10,8,MA Chidambaram Stadium
+501,2020,Kolkata,2021-05-15,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,3,5,Eden Gardens
+502,2020,Delhi,2021-05-16,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Chennai Super Kings,31,6,Wankhede Stadium
+503,2024,Jaipur,2021-05-17,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,56,2,M Chinnaswamy Stadium
+504,2022,Mohali,2021-05-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,72,8,M Chinnaswamy Stadium
+505,2024,Chennai,2021-05-19,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,49,9,M Chinnaswamy Stadium
+506,2023,Delhi,2021-05-20,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,77,3,Wankhede Stadium
+507,2024,Chennai,2021-05-21,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,26,0,Wankhede Stadium
+508,2022,Mumbai,2021-05-22,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,64,8,MA Chidambaram Stadium
+509,2023,Chennai,2021-05-23,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,11,7,Wankhede Stadium
+510,2021,Mohali,2021-05-24,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,73,5,Wankhede Stadium
+511,2022,Kolkata,2021-05-25,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,42,5,MA Chidambaram Stadium
+512,2024,Jaipur,2021-05-26,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,70,9,Eden Gardens
+513,2021,Jaipur,2021-05-27,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,1,Chennai Super Kings,21,0,MA Chidambaram Stadium
+514,2024,Jaipur,2021-05-28,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,12,2,Wankhede Stadium
+515,2021,Mohali,2021-05-29,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,62,4,MA Chidambaram Stadium
+516,2022,Jaipur,2021-05-30,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,29,7,M Chinnaswamy Stadium
+517,2024,Chennai,2021-05-31,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,11,0,M Chinnaswamy Stadium
+518,2021,Delhi,2021-06-01,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,71,6,Eden Gardens
+519,2024,Bangalore,2021-06-02,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,68,8,Eden Gardens
+520,2020,Jaipur,2021-06-03,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,1,2,Wankhede Stadium
+521,2020,Bangalore,2021-06-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,1,3,MA Chidambaram Stadium
+522,2023,Chennai,2021-06-05,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,88,5,Eden Gardens
+523,2021,Mohali,2021-06-06,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,15,4,MA Chidambaram Stadium
+524,2023,Bangalore,2021-06-07,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,80,0,Wankhede Stadium
+525,2023,Bangalore,2021-06-08,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,94,1,MA Chidambaram Stadium
+526,2023,Mohali,2021-06-09,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,16,0,M Chinnaswamy Stadium
+527,2023,Bangalore,2021-06-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,1,Kolkata Knight Riders,41,3,Eden Gardens
+528,2023,Jaipur,2021-06-11,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,49,1,Wankhede Stadium
+529,2021,Delhi,2021-06-12,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,24,3,MA Chidambaram Stadium
+530,2023,Hyderabad,2021-06-13,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,94,1,Eden Gardens
+531,2020,Kolkata,2021-06-14,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,84,7,Wankhede Stadium
+532,2023,Jaipur,2021-06-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,95,4,Eden Gardens
+533,2023,Delhi,2021-06-16,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,48,7,Eden Gardens
+534,2022,Mumbai,2021-06-17,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,72,6,Eden Gardens
+535,2023,Delhi,2021-06-18,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,31,8,MA Chidambaram Stadium
+536,2024,Kolkata,2021-06-19,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,42,0,M Chinnaswamy Stadium
+537,2024,Delhi,2021-06-20,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,normal,0,Mumbai Indians,19,6,M Chinnaswamy Stadium
+538,2021,Bangalore,2021-06-21,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Mumbai Indians,57,0,Wankhede Stadium
+539,2024,Mumbai,2021-06-22,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Chennai Super Kings,36,1,Wankhede Stadium
+540,2022,Hyderabad,2021-06-23,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,16,5,M Chinnaswamy Stadium
+541,2024,Mohali,2021-06-24,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,7,5,Wankhede Stadium
+542,2021,Bangalore,2021-06-25,Mumbai Indians,Punjab Kings,Mumbai Indians,field,normal,0,Kolkata Knight Riders,12,9,M Chinnaswamy Stadium
+543,2021,Chennai,2021-06-26,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,3,7,MA Chidambaram Stadium
+544,2023,Mumbai,2021-06-27,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,55,8,Eden Gardens
+545,2023,Kolkata,2021-06-28,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,95,6,Eden Gardens
+546,2021,Mohali,2021-06-29,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,33,1,MA Chidambaram Stadium
+547,2023,Kolkata,2021-06-30,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,69,7,Wankhede Stadium
+548,2020,Chennai,2021-07-01,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,1,Mumbai Indians,96,0,M Chinnaswamy Stadium
+549,2021,Hyderabad,2021-07-02,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,38,7,M Chinnaswamy Stadium
+550,2024,Chennai,2021-07-03,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Chennai Super Kings,99,9,M Chinnaswamy Stadium
+551,2020,Mumbai,2021-07-04,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,53,7,Eden Gardens
+552,2021,Chennai,2021-07-05,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,61,0,MA Chidambaram Stadium
+553,2021,Jaipur,2021-07-06,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,46,7,M Chinnaswamy Stadium
+554,2022,Jaipur,2021-07-07,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,1,Royal Challengers Bangalore,62,8,Wankhede Stadium
+555,2020,Mumbai,2021-07-08,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,40,6,Wankhede Stadium
+556,2024,Chennai,2021-07-09,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,42,6,MA Chidambaram Stadium
+557,2024,Jaipur,2021-07-10,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,38,2,MA Chidambaram Stadium
+558,2021,Hyderabad,2021-07-11,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,61,3,Eden Gardens
+559,2022,Bangalore,2021-07-12,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Mumbai Indians,56,8,M Chinnaswamy Stadium
+560,2024,Bangalore,2021-07-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,61,9,Wankhede Stadium
+561,2024,Mumbai,2021-07-14,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,95,0,MA Chidambaram Stadium
+562,2023,Jaipur,2021-07-15,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,normal,0,Chennai Super Kings,85,8,Eden Gardens
+563,2023,Hyderabad,2021-07-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,66,6,Eden Gardens
+564,2020,Jaipur,2021-07-17,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,1,Chennai Super Kings,38,1,MA Chidambaram Stadium
+565,2020,Chennai,2021-07-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Chennai Super Kings,4,7,MA Chidambaram Stadium
+566,2021,Mumbai,2021-07-19,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,60,0,Wankhede Stadium
+567,2023,Jaipur,2021-07-20,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,14,2,M Chinnaswamy Stadium
+568,2022,Mohali,2021-07-21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,30,8,Wankhede Stadium
+569,2023,Mohali,2021-07-22,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,54,0,MA Chidambaram Stadium
+570,2022,Kolkata,2021-07-23,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,2,5,MA Chidambaram Stadium
+571,2022,Delhi,2021-07-24,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Chennai Super Kings,7,5,M Chinnaswamy Stadium
+572,2020,Hyderabad,2021-07-25,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,38,9,Wankhede Stadium
+573,2024,Mohali,2021-07-26,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,10,8,MA Chidambaram Stadium
+574,2021,Chennai,2021-07-27,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,50,9,MA Chidambaram Stadium
+575,2020,Jaipur,2021-07-28,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,45,2,Eden Gardens
+576,2021,Mohali,2021-07-29,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,88,5,Eden Gardens
+577,2020,Mumbai,2021-07-30,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,15,4,Eden Gardens
+578,2024,Chennai,2021-07-31,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Mumbai Indians,95,3,MA Chidambaram Stadium
+579,2020,Hyderabad,2021-08-01,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,90,3,Wankhede Stadium
+580,2023,Chennai,2021-08-02,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,7,7,Wankhede Stadium
+581,2022,Bangalore,2021-08-03,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,54,6,Wankhede Stadium
+582,2024,Mumbai,2021-08-04,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,12,9,M Chinnaswamy Stadium
+583,2024,Chennai,2021-08-05,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,46,9,Wankhede Stadium
+584,2024,Delhi,2021-08-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,6,7,Wankhede Stadium
+585,2024,Bangalore,2021-08-07,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,48,8,M Chinnaswamy Stadium
+586,2023,Mohali,2021-08-08,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,76,4,Wankhede Stadium
+587,2022,Hyderabad,2021-08-09,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,18,6,Wankhede Stadium
+588,2021,Chennai,2021-08-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,66,4,MA Chidambaram Stadium
+589,2020,Mumbai,2021-08-11,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,28,0,Eden Gardens
+590,2024,Jaipur,2021-08-12,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,70,6,Eden Gardens
+591,2022,Delhi,2021-08-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,45,1,Wankhede Stadium
+592,2023,Delhi,2021-08-14,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,28,2,M Chinnaswamy Stadium
+593,2021,Kolkata,2021-08-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,16,1,M Chinnaswamy Stadium
+594,2022,Delhi,2021-08-16,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,62,7,M Chinnaswamy Stadium
+595,2020,Delhi,2021-08-17,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,30,8,M Chinnaswamy Stadium
+596,2020,Jaipur,2021-08-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Chennai Super Kings,67,6,Eden Gardens
+597,2021,Mumbai,2021-08-19,Chennai Super Kings,Punjab Kings,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,28,3,M Chinnaswamy Stadium
+598,2024,Bangalore,2021-08-20,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,79,5,MA Chidambaram Stadium
+599,2023,Jaipur,2021-08-21,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Chennai Super Kings,32,4,Eden Gardens
+600,2022,Mohali,2021-08-22,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,81,7,MA Chidambaram Stadium
+601,2023,Kolkata,2021-08-23,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,92,1,Wankhede Stadium
+602,2023,Kolkata,2021-08-24,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,94,7,MA Chidambaram Stadium
+603,2021,Delhi,2021-08-25,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,39,1,Wankhede Stadium
+604,2023,Mohali,2021-08-26,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,30,2,Wankhede Stadium
+605,2022,Chennai,2021-08-27,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,86,5,M Chinnaswamy Stadium
+606,2024,Hyderabad,2021-08-28,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,3,2,Wankhede Stadium
+607,2020,Chennai,2021-08-29,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Mumbai Indians,3,9,M Chinnaswamy Stadium
+608,2022,Mohali,2021-08-30,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,34,2,Wankhede Stadium
+609,2024,Mohali,2021-08-31,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,48,0,MA Chidambaram Stadium
+610,2024,Delhi,2021-09-01,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,13,2,Wankhede Stadium
+611,2024,Jaipur,2021-09-02,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,29,5,MA Chidambaram Stadium
+612,2021,Kolkata,2021-09-03,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,31,8,M Chinnaswamy Stadium
+613,2020,Chennai,2021-09-04,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,95,6,MA Chidambaram Stadium
+614,2024,Delhi,2021-09-05,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,83,8,MA Chidambaram Stadium
+615,2024,Mumbai,2021-09-06,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,27,4,Eden Gardens
+616,2024,Mohali,2021-09-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,62,2,M Chinnaswamy Stadium
+617,2023,Kolkata,2021-09-08,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Mumbai Indians,33,3,MA Chidambaram Stadium
+618,2021,Mumbai,2021-09-09,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,33,4,Eden Gardens
+619,2021,Chennai,2021-09-10,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,51,1,Eden Gardens
+620,2020,Jaipur,2021-09-11,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Mumbai Indians,19,7,Wankhede Stadium
+621,2024,Delhi,2021-09-12,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,normal,1,Chennai Super Kings,92,6,Eden Gardens
+622,2023,Mumbai,2021-09-13,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,40,4,MA Chidambaram Stadium
+623,2023,Mohali,2021-09-14,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,10,7,Wankhede Stadium
+624,2022,Hyderabad,2021-09-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,81,9,Eden Gardens
+625,2024,Delhi,2021-09-16,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,0,3,M Chinnaswamy Stadium
+626,2022,Mohali,2021-09-17,Chennai Super Kings,Punjab Kings,Mumbai Indians,field,tie,0,Chennai Super Kings,82,0,MA Chidambaram Stadium
+627,2023,Chennai,2021-09-18,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Mumbai Indians,33,1,Eden Gardens
+628,2020,Chennai,2021-09-19,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,44,5,Eden Gardens
+629,2024,Mohali,2021-09-20,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,21,0,MA Chidambaram Stadium
+630,2023,Mohali,2021-09-21,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,69,2,Wankhede Stadium
+631,2023,Kolkata,2021-09-22,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,57,7,M Chinnaswamy Stadium
+632,2021,Delhi,2021-09-23,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,3,4,M Chinnaswamy Stadium
+633,2023,Chennai,2021-09-24,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,71,8,MA Chidambaram Stadium
+634,2021,Bangalore,2021-09-25,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,21,4,M Chinnaswamy Stadium
+635,2021,Kolkata,2021-09-26,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,1,Mumbai Indians,96,3,Eden Gardens
+636,2021,Mumbai,2021-09-27,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,1,Royal Challengers Bangalore,50,4,MA Chidambaram Stadium
+637,2021,Mohali,2021-09-28,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,52,6,Eden Gardens
+638,2023,Mumbai,2021-09-29,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,56,1,Wankhede Stadium
+639,2022,Delhi,2021-09-30,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,54,0,Wankhede Stadium
+640,2023,Chennai,2021-10-01,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,normal,1,Royal Challengers Bangalore,75,1,M Chinnaswamy Stadium
+641,2022,Mohali,2021-10-02,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,64,7,Wankhede Stadium
+642,2020,Delhi,2021-10-03,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,44,8,Eden Gardens
+643,2022,Kolkata,2021-10-04,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,39,7,MA Chidambaram Stadium
+644,2020,Mumbai,2021-10-05,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,92,0,MA Chidambaram Stadium
+645,2024,Mohali,2021-10-06,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,91,4,MA Chidambaram Stadium
+646,2023,Hyderabad,2021-10-07,Mumbai Indians,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,98,4,Wankhede Stadium
+647,2021,Chennai,2021-10-08,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,25,7,M Chinnaswamy Stadium
+648,2022,Bangalore,2021-10-09,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,17,4,Wankhede Stadium
+649,2021,Jaipur,2021-10-10,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Mumbai Indians,14,0,Wankhede Stadium
+650,2020,Hyderabad,2021-10-11,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,81,1,MA Chidambaram Stadium
+651,2022,Kolkata,2021-10-12,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,98,0,MA Chidambaram Stadium
+652,2020,Mumbai,2021-10-13,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,4,9,M Chinnaswamy Stadium
+653,2021,Mumbai,2021-10-14,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,1,Chennai Super Kings,75,4,Eden Gardens
+654,2023,Bangalore,2021-10-15,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,48,7,Wankhede Stadium
+655,2024,Delhi,2021-10-16,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,86,6,Wankhede Stadium
+656,2022,Mumbai,2021-10-17,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,34,4,M Chinnaswamy Stadium
+657,2020,Mumbai,2021-10-18,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,3,5,Wankhede Stadium
+658,2022,Chennai,2021-10-19,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,26,9,M Chinnaswamy Stadium
+659,2021,Mumbai,2021-10-20,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,56,1,Wankhede Stadium
+660,2022,Hyderabad,2021-10-21,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,tie,1,Royal Challengers Bangalore,81,0,Wankhede Stadium
+661,2023,Mumbai,2021-10-22,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,58,0,M Chinnaswamy Stadium
+662,2023,Kolkata,2021-10-23,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,70,1,Eden Gardens
+663,2024,Hyderabad,2021-10-24,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,33,2,Wankhede Stadium
+664,2021,Mohali,2021-10-25,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,41,9,M Chinnaswamy Stadium
+665,2023,Delhi,2021-10-26,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,8,M Chinnaswamy Stadium
+666,2022,Delhi,2021-10-27,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,36,0,Eden Gardens
+667,2021,Mumbai,2021-10-28,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,11,9,Wankhede Stadium
+668,2022,Chennai,2021-10-29,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,81,1,Eden Gardens
+669,2021,Mumbai,2021-10-30,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,8,9,M Chinnaswamy Stadium
+670,2024,Delhi,2021-10-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,bat,tie,0,Mumbai Indians,54,2,Wankhede Stadium
+671,2020,Kolkata,2021-11-01,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,38,8,M Chinnaswamy Stadium
+672,2022,Mumbai,2021-11-02,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,73,5,Eden Gardens
+673,2023,Chennai,2021-11-03,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,66,1,Wankhede Stadium
+674,2024,Delhi,2021-11-04,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,99,3,Eden Gardens
+675,2021,Kolkata,2021-11-05,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,24,9,Wankhede Stadium
+676,2022,Kolkata,2021-11-06,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,33,7,MA Chidambaram Stadium
+677,2024,Delhi,2021-11-07,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,66,8,Wankhede Stadium
+678,2021,Chennai,2021-11-08,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,91,3,Eden Gardens
+679,2021,Delhi,2021-11-09,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,37,7,Wankhede Stadium
+680,2021,Hyderabad,2021-11-10,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,83,0,MA Chidambaram Stadium
+681,2020,Kolkata,2021-11-11,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,37,6,Eden Gardens
+682,2020,Chennai,2021-11-12,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,15,8,Eden Gardens
+683,2020,Delhi,2021-11-13,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,3,0,Eden Gardens
+684,2023,Hyderabad,2021-11-14,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,68,2,MA Chidambaram Stadium
+685,2024,Jaipur,2021-11-15,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,31,4,M Chinnaswamy Stadium
+686,2023,Kolkata,2021-11-16,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,bat,tie,1,Chennai Super Kings,29,8,Eden Gardens
+687,2022,Kolkata,2021-11-17,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,95,3,M Chinnaswamy Stadium
+688,2024,Mumbai,2021-11-18,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,1,Mumbai Indians,3,1,M Chinnaswamy Stadium
+689,2020,Bangalore,2021-11-19,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,normal,0,Mumbai Indians,47,7,Eden Gardens
+690,2023,Mohali,2021-11-20,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,26,4,MA Chidambaram Stadium
+691,2022,Jaipur,2021-11-21,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,49,6,MA Chidambaram Stadium
+692,2021,Kolkata,2021-11-22,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,53,3,Wankhede Stadium
+693,2022,Hyderabad,2021-11-23,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,1,6,Eden Gardens
+694,2023,Chennai,2021-11-24,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,46,6,Eden Gardens
+695,2022,Bangalore,2021-11-25,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,1,Mumbai Indians,84,3,MA Chidambaram Stadium
+696,2022,Chennai,2021-11-26,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Chennai Super Kings,28,0,Wankhede Stadium
+697,2022,Kolkata,2021-11-27,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,44,5,Wankhede Stadium
+698,2022,Chennai,2021-11-28,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,37,9,MA Chidambaram Stadium
+699,2021,Jaipur,2021-11-29,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,85,5,M Chinnaswamy Stadium
+700,2024,Hyderabad,2021-11-30,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Mumbai Indians,93,3,M Chinnaswamy Stadium
+701,2020,Jaipur,2021-12-01,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,87,2,M Chinnaswamy Stadium
+702,2023,Jaipur,2021-12-02,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Mumbai Indians,47,8,Wankhede Stadium
+703,2020,Mohali,2021-12-03,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,23,2,M Chinnaswamy Stadium
+704,2024,Mohali,2021-12-04,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,55,1,Wankhede Stadium
+705,2023,Bangalore,2021-12-05,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,7,7,Wankhede Stadium
+706,2022,Chennai,2021-12-06,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,96,1,MA Chidambaram Stadium
+707,2023,Hyderabad,2021-12-07,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,25,2,Wankhede Stadium
+708,2023,Chennai,2021-12-08,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,66,7,MA Chidambaram Stadium
+709,2020,Mumbai,2021-12-09,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,49,7,Eden Gardens
+710,2024,Delhi,2021-12-10,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,68,2,MA Chidambaram Stadium
+711,2020,Kolkata,2021-12-11,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,tie,1,Mumbai Indians,10,8,Wankhede Stadium
+712,2021,Jaipur,2021-12-12,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,normal,0,Kolkata Knight Riders,35,8,MA Chidambaram Stadium
+713,2022,Hyderabad,2021-12-13,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,1,Chennai Super Kings,13,9,Wankhede Stadium
+714,2020,Bangalore,2021-12-14,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,11,9,M Chinnaswamy Stadium
+715,2021,Hyderabad,2021-12-15,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,27,3,MA Chidambaram Stadium
+716,2024,Mumbai,2021-12-16,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,72,1,Eden Gardens
+717,2021,Mohali,2021-12-17,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,24,8,Eden Gardens
+718,2024,Kolkata,2021-12-18,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,tie,0,Chennai Super Kings,80,4,Eden Gardens
+719,2022,Hyderabad,2021-12-19,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,12,9,M Chinnaswamy Stadium
+720,2023,Bangalore,2021-12-20,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,8,4,MA Chidambaram Stadium
+721,2020,Delhi,2021-12-21,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,75,5,MA Chidambaram Stadium
+722,2023,Mumbai,2021-12-22,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,63,7,MA Chidambaram Stadium
+723,2022,Delhi,2021-12-23,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,35,0,Eden Gardens
+724,2020,Hyderabad,2021-12-24,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,10,1,MA Chidambaram Stadium
+725,2024,Chennai,2021-12-25,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,30,4,Wankhede Stadium
+726,2022,Chennai,2021-12-26,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,91,9,MA Chidambaram Stadium
+727,2021,Mumbai,2021-12-27,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,42,9,M Chinnaswamy Stadium
+728,2020,Bangalore,2021-12-28,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,1,Mumbai Indians,95,3,MA Chidambaram Stadium
+729,2021,Mohali,2021-12-29,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,0,Chennai Super Kings,20,0,Eden Gardens
+730,2024,Mohali,2021-12-30,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,63,2,Wankhede Stadium
+731,2024,Chennai,2021-12-31,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,3,6,MA Chidambaram Stadium
+732,2023,Hyderabad,2022-01-01,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,13,7,M Chinnaswamy Stadium
+733,2023,Bangalore,2022-01-02,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,61,1,M Chinnaswamy Stadium
+734,2021,Hyderabad,2022-01-03,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,61,7,Wankhede Stadium
+735,2021,Mumbai,2022-01-04,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,37,3,M Chinnaswamy Stadium
+736,2020,Mohali,2022-01-05,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,7,7,MA Chidambaram Stadium
+737,2022,Kolkata,2022-01-06,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,83,2,Eden Gardens
+738,2022,Bangalore,2022-01-07,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,1,Kolkata Knight Riders,62,8,Wankhede Stadium
+739,2020,Hyderabad,2022-01-08,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,14,6,MA Chidambaram Stadium
+740,2024,Mumbai,2022-01-09,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,1,Kolkata Knight Riders,51,2,Eden Gardens
+741,2023,Delhi,2022-01-10,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,28,0,Wankhede Stadium
+742,2022,Mumbai,2022-01-11,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,18,0,M Chinnaswamy Stadium
+743,2021,Delhi,2022-01-12,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,97,4,M Chinnaswamy Stadium
+744,2023,Chennai,2022-01-13,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,tie,1,Mumbai Indians,36,0,Wankhede Stadium
+745,2022,Mumbai,2022-01-14,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,49,3,Wankhede Stadium
+746,2022,Delhi,2022-01-15,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,6,5,Eden Gardens
+747,2023,Mohali,2022-01-16,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,48,3,M Chinnaswamy Stadium
+748,2021,Kolkata,2022-01-17,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Chennai Super Kings,86,3,M Chinnaswamy Stadium
+749,2020,Bangalore,2022-01-18,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,58,0,Wankhede Stadium
+750,2022,Delhi,2022-01-19,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,60,9,Wankhede Stadium
+751,2021,Chennai,2022-01-20,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,28,8,Wankhede Stadium
+752,2021,Bangalore,2022-01-21,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,field,tie,1,Royal Challengers Bangalore,38,4,MA Chidambaram Stadium
+753,2022,Jaipur,2022-01-22,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,normal,1,Royal Challengers Bangalore,76,5,Wankhede Stadium
+754,2024,Mumbai,2022-01-23,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Mumbai Indians,74,6,Wankhede Stadium
+755,2024,Bangalore,2022-01-24,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,13,4,Wankhede Stadium
+756,2022,Mumbai,2022-01-25,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,tie,0,Mumbai Indians,62,2,MA Chidambaram Stadium
+757,2023,Kolkata,2022-01-26,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,19,2,M Chinnaswamy Stadium
+758,2021,Mohali,2022-01-27,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,65,0,Wankhede Stadium
+759,2022,Mohali,2022-01-28,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,84,0,Eden Gardens
+760,2023,Bangalore,2022-01-29,Royal Challengers Bangalore,Sunrisers Hyderabad,Mumbai Indians,field,tie,1,Chennai Super Kings,40,6,M Chinnaswamy Stadium
+761,2020,Bangalore,2022-01-30,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,50,0,Wankhede Stadium
+762,2023,Kolkata,2022-01-31,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,75,3,Eden Gardens
+763,2023,Mumbai,2022-02-01,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Chennai Super Kings,83,0,M Chinnaswamy Stadium
+764,2021,Delhi,2022-02-02,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,bat,tie,0,Chennai Super Kings,97,1,M Chinnaswamy Stadium
+765,2024,Chennai,2022-02-03,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,86,0,Eden Gardens
+766,2023,Hyderabad,2022-02-04,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,tie,0,Chennai Super Kings,71,1,Eden Gardens
+767,2020,Kolkata,2022-02-05,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,17,7,M Chinnaswamy Stadium
+768,2021,Mumbai,2022-02-06,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,47,3,M Chinnaswamy Stadium
+769,2020,Jaipur,2022-02-07,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,2,6,MA Chidambaram Stadium
+770,2020,Jaipur,2022-02-08,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,87,1,Eden Gardens
+771,2021,Kolkata,2022-02-09,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,tie,0,Mumbai Indians,89,2,MA Chidambaram Stadium
+772,2024,Kolkata,2022-02-10,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,tie,0,Mumbai Indians,81,5,Wankhede Stadium
+773,2023,Chennai,2022-02-11,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,3,0,Eden Gardens
+774,2023,Kolkata,2022-02-12,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,56,9,Eden Gardens
+775,2023,Kolkata,2022-02-13,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Mumbai Indians,60,0,M Chinnaswamy Stadium
+776,2023,Hyderabad,2022-02-14,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,51,9,Wankhede Stadium
+777,2023,Delhi,2022-02-15,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,tie,0,Chennai Super Kings,92,6,Eden Gardens
+778,2020,Jaipur,2022-02-16,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,92,7,MA Chidambaram Stadium
+779,2023,Chennai,2022-02-17,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,63,5,MA Chidambaram Stadium
+780,2021,Bangalore,2022-02-18,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,0,Mumbai Indians,12,9,Wankhede Stadium
+781,2021,Kolkata,2022-02-19,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,tie,0,Mumbai Indians,84,3,Eden Gardens
+782,2024,Kolkata,2022-02-20,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,61,9,MA Chidambaram Stadium
+783,2022,Mumbai,2022-02-21,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,41,4,M Chinnaswamy Stadium
+784,2021,Hyderabad,2022-02-22,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,24,0,MA Chidambaram Stadium
+785,2023,Chennai,2022-02-23,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,12,9,Eden Gardens
+786,2020,Delhi,2022-02-24,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,field,tie,0,Mumbai Indians,38,2,Wankhede Stadium
+787,2020,Bangalore,2022-02-25,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Mumbai Indians,44,5,M Chinnaswamy Stadium
+788,2020,Chennai,2022-02-26,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,96,2,M Chinnaswamy Stadium
+789,2022,Mohali,2022-02-27,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,22,3,Eden Gardens
+790,2020,Chennai,2022-02-28,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,67,2,Wankhede Stadium
+791,2020,Jaipur,2022-03-01,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,4,8,Wankhede Stadium
+792,2020,Mumbai,2022-03-02,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,31,3,Eden Gardens
+793,2020,Hyderabad,2022-03-03,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,64,0,Eden Gardens
+794,2023,Hyderabad,2022-03-04,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,normal,0,Mumbai Indians,66,6,Eden Gardens
+795,2022,Mohali,2022-03-05,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,tie,0,Kolkata Knight Riders,87,3,Wankhede Stadium
+796,2020,Kolkata,2022-03-06,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,4,1,Eden Gardens
+797,2024,Kolkata,2022-03-07,Royal Challengers Bangalore,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,29,1,M Chinnaswamy Stadium
+798,2024,Bangalore,2022-03-08,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Kolkata Knight Riders,91,6,M Chinnaswamy Stadium
+799,2023,Jaipur,2022-03-09,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,normal,0,Mumbai Indians,63,1,MA Chidambaram Stadium
+800,2020,Mumbai,2022-03-10,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Kolkata Knight Riders,92,5,MA Chidambaram Stadium
+801,2023,Hyderabad,2022-03-11,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,73,4,MA Chidambaram Stadium
+802,2021,Hyderabad,2022-03-12,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,0,Mumbai Indians,64,8,Eden Gardens
+803,2020,Hyderabad,2022-03-13,Kolkata Knight Riders,Punjab Kings,Mumbai Indians,bat,tie,0,Kolkata Knight Riders,58,3,Wankhede Stadium
+804,2021,Mumbai,2022-03-14,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,5,6,Eden Gardens
+805,2022,Delhi,2022-03-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,29,2,Eden Gardens
+806,2022,Chennai,2022-03-16,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Mumbai Indians,26,7,Eden Gardens
+807,2024,Jaipur,2022-03-17,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,60,0,M Chinnaswamy Stadium
+808,2024,Delhi,2022-03-18,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,86,5,M Chinnaswamy Stadium
+809,2024,Hyderabad,2022-03-19,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,27,1,MA Chidambaram Stadium
+810,2023,Bangalore,2022-03-20,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,58,9,Wankhede Stadium
+811,2024,Bangalore,2022-03-21,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,tie,1,Kolkata Knight Riders,37,2,MA Chidambaram Stadium
+812,2023,Mumbai,2022-03-22,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,tie,0,Kolkata Knight Riders,8,5,Wankhede Stadium
+813,2020,Delhi,2022-03-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,87,6,Eden Gardens
+814,2022,Bangalore,2022-03-24,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,76,1,M Chinnaswamy Stadium
+815,2024,Mohali,2022-03-25,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,33,7,Eden Gardens
+816,2024,Mumbai,2022-03-26,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,1,4,Wankhede Stadium
+817,2022,Chennai,2022-03-27,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,12,5,M Chinnaswamy Stadium
+818,2023,Mumbai,2022-03-28,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,tie,0,Chennai Super Kings,82,6,Eden Gardens
+819,2023,Delhi,2022-03-29,Chennai Super Kings,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,55,3,M Chinnaswamy Stadium
+820,2021,Kolkata,2022-03-30,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,4,3,MA Chidambaram Stadium
+821,2023,Mohali,2022-03-31,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,61,1,Eden Gardens
+822,2022,Chennai,2022-04-01,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,28,4,Eden Gardens
+823,2020,Delhi,2022-04-02,Royal Challengers Bangalore,Delhi Capitals,Mumbai Indians,field,tie,1,Chennai Super Kings,61,4,M Chinnaswamy Stadium
+824,2020,Kolkata,2022-04-03,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Royal Challengers Bangalore,87,0,M Chinnaswamy Stadium
+825,2022,Jaipur,2022-04-04,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,64,3,Eden Gardens
+826,2020,Chennai,2022-04-05,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,50,8,M Chinnaswamy Stadium
+827,2023,Delhi,2022-04-06,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,58,0,Eden Gardens
+828,2023,Bangalore,2022-04-07,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,96,2,MA Chidambaram Stadium
+829,2023,Mumbai,2022-04-08,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,10,8,M Chinnaswamy Stadium
+830,2022,Mohali,2022-04-09,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,79,7,M Chinnaswamy Stadium
+831,2020,Chennai,2022-04-10,Mumbai Indians,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Chennai Super Kings,78,3,Wankhede Stadium
+832,2024,Kolkata,2022-04-11,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,6,3,MA Chidambaram Stadium
+833,2022,Mohali,2022-04-12,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,54,7,M Chinnaswamy Stadium
+834,2023,Bangalore,2022-04-13,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,51,2,M Chinnaswamy Stadium
+835,2023,Jaipur,2022-04-14,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Royal Challengers Bangalore,11,3,M Chinnaswamy Stadium
+836,2020,Chennai,2022-04-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,tie,0,Kolkata Knight Riders,46,6,Wankhede Stadium
+837,2024,Bangalore,2022-04-16,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,2,0,M Chinnaswamy Stadium
+838,2024,Chennai,2022-04-17,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,0,7,MA Chidambaram Stadium
+839,2023,Mohali,2022-04-18,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,44,8,Eden Gardens
+840,2024,Mohali,2022-04-19,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,53,2,MA Chidambaram Stadium
+841,2022,Delhi,2022-04-20,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,72,2,M Chinnaswamy Stadium
+842,2020,Jaipur,2022-04-21,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Mumbai Indians,60,1,Eden Gardens
+843,2022,Bangalore,2022-04-22,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,normal,1,Kolkata Knight Riders,3,6,MA Chidambaram Stadium
+844,2023,Delhi,2022-04-23,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,28,2,MA Chidambaram Stadium
+845,2020,Delhi,2022-04-24,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Royal Challengers Bangalore,89,4,M Chinnaswamy Stadium
+846,2024,Mohali,2022-04-25,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,bat,normal,1,Chennai Super Kings,34,5,Wankhede Stadium
+847,2021,Mohali,2022-04-26,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Mumbai Indians,4,2,M Chinnaswamy Stadium
+848,2024,Mumbai,2022-04-27,Chennai Super Kings,Punjab Kings,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,0,1,Wankhede Stadium
+849,2024,Kolkata,2022-04-28,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,49,0,Eden Gardens
+850,2020,Kolkata,2022-04-29,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,90,8,Eden Gardens
+851,2024,Hyderabad,2022-04-30,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,20,4,Wankhede Stadium
+852,2023,Mohali,2022-05-01,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,43,5,Wankhede Stadium
+853,2024,Mohali,2022-05-02,Chennai Super Kings,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,86,4,Wankhede Stadium
+854,2024,Hyderabad,2022-05-03,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,93,7,MA Chidambaram Stadium
+855,2022,Mohali,2022-05-04,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,tie,0,Chennai Super Kings,40,9,Eden Gardens
+856,2023,Kolkata,2022-05-05,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,56,7,M Chinnaswamy Stadium
+857,2022,Delhi,2022-05-06,Chennai Super Kings,Delhi Capitals,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,71,8,Eden Gardens
+858,2024,Delhi,2022-05-07,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,56,4,MA Chidambaram Stadium
+859,2023,Bangalore,2022-05-08,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,field,normal,0,Kolkata Knight Riders,48,4,Wankhede Stadium
+860,2023,Mohali,2022-05-09,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,40,6,MA Chidambaram Stadium
+861,2023,Mohali,2022-05-10,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,92,2,Wankhede Stadium
+862,2021,Delhi,2022-05-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,16,9,M Chinnaswamy Stadium
+863,2020,Delhi,2022-05-12,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,52,9,MA Chidambaram Stadium
+864,2021,Jaipur,2022-05-13,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,99,8,Wankhede Stadium
+865,2022,Kolkata,2022-05-14,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,41,4,Eden Gardens
+866,2020,Kolkata,2022-05-15,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Mumbai Indians,14,8,Wankhede Stadium
+867,2021,Kolkata,2022-05-16,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,12,5,MA Chidambaram Stadium
+868,2022,Bangalore,2022-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,68,8,Wankhede Stadium
+869,2022,Mohali,2022-05-18,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Royal Challengers Bangalore,31,5,Eden Gardens
+870,2024,Chennai,2022-05-19,Chennai Super Kings,Sunrisers Hyderabad,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,44,5,Eden Gardens
+871,2022,Kolkata,2022-05-20,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,bat,tie,0,Mumbai Indians,29,7,Eden Gardens
+872,2020,Jaipur,2022-05-21,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,bat,normal,1,Mumbai Indians,24,8,MA Chidambaram Stadium
+873,2023,Bangalore,2022-05-22,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,32,1,Eden Gardens
+874,2021,Chennai,2022-05-23,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,1,Kolkata Knight Riders,62,4,M Chinnaswamy Stadium
+875,2020,Chennai,2022-05-24,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,bat,tie,0,Mumbai Indians,3,1,Eden Gardens
+876,2023,Bangalore,2022-05-25,Mumbai Indians,Punjab Kings,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,54,2,MA Chidambaram Stadium
+877,2022,Chennai,2022-05-26,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Mumbai Indians,2,6,Eden Gardens
+878,2021,Mumbai,2022-05-27,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,normal,0,Chennai Super Kings,15,0,Wankhede Stadium
+879,2024,Hyderabad,2022-05-28,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians,0,4,MA Chidambaram Stadium
+880,2023,Hyderabad,2022-05-29,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,normal,0,Kolkata Knight Riders,41,2,MA Chidambaram Stadium
+881,2020,Mumbai,2022-05-30,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,46,4,Eden Gardens
+882,2023,Jaipur,2022-05-31,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,normal,1,Mumbai Indians,80,1,M Chinnaswamy Stadium
+883,2022,Chennai,2022-06-01,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,tie,0,Mumbai Indians,74,3,M Chinnaswamy Stadium
+884,2024,Kolkata,2022-06-02,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,normal,1,Chennai Super Kings,72,1,Wankhede Stadium
+885,2024,Delhi,2022-06-03,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,99,1,MA Chidambaram Stadium
+886,2021,Kolkata,2022-06-04,Kolkata Knight Riders,Punjab Kings,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,15,9,Eden Gardens
+887,2021,Kolkata,2022-06-05,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,95,3,MA Chidambaram Stadium
+888,2021,Delhi,2022-06-06,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,field,tie,0,Kolkata Knight Riders,53,6,Eden Gardens
+889,2020,Chennai,2022-06-07,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,0,Mumbai Indians,90,9,MA Chidambaram Stadium
+890,2023,Hyderabad,2022-06-08,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,4,1,Wankhede Stadium
+891,2024,Delhi,2022-06-09,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,95,2,Eden Gardens
+892,2024,Kolkata,2022-06-10,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,96,6,Eden Gardens
+893,2023,Mumbai,2022-06-11,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,0,Chennai Super Kings,82,9,M Chinnaswamy Stadium
+894,2023,Mohali,2022-06-12,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,68,7,Wankhede Stadium
+895,2023,Delhi,2022-06-13,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,field,normal,0,Chennai Super Kings,63,9,MA Chidambaram Stadium
+896,2024,Mohali,2022-06-14,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,56,5,M Chinnaswamy Stadium
+897,2020,Chennai,2022-06-15,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,63,9,Eden Gardens
+898,2023,Jaipur,2022-06-16,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,20,6,MA Chidambaram Stadium
+899,2022,Mohali,2022-06-17,Mumbai Indians,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,69,9,Wankhede Stadium
+900,2020,Hyderabad,2022-06-18,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,82,3,Wankhede Stadium
+901,2020,Kolkata,2022-06-19,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,normal,1,Chennai Super Kings,38,5,Wankhede Stadium
+902,2020,Jaipur,2022-06-20,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,4,8,M Chinnaswamy Stadium
+903,2024,Mumbai,2022-06-21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,40,3,MA Chidambaram Stadium
+904,2024,Bangalore,2022-06-22,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,69,9,Wankhede Stadium
+905,2020,Bangalore,2022-06-23,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,5,6,MA Chidambaram Stadium
+906,2024,Bangalore,2022-06-24,Chennai Super Kings,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,18,9,Wankhede Stadium
+907,2020,Delhi,2022-06-25,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,normal,1,Mumbai Indians,53,0,MA Chidambaram Stadium
+908,2023,Jaipur,2022-06-26,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,normal,0,Chennai Super Kings,42,2,Eden Gardens
+909,2022,Bangalore,2022-06-27,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,field,tie,0,Chennai Super Kings,78,9,MA Chidambaram Stadium
+910,2024,Chennai,2022-06-28,Kolkata Knight Riders,Delhi Capitals,Chennai Super Kings,bat,tie,0,Royal Challengers Bangalore,5,6,MA Chidambaram Stadium
+911,2024,Delhi,2022-06-29,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,normal,1,Royal Challengers Bangalore,36,0,Eden Gardens
+912,2024,Chennai,2022-06-30,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,normal,1,Kolkata Knight Riders,44,9,Wankhede Stadium
+913,2024,Delhi,2022-07-01,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,27,5,Eden Gardens
+914,2022,Hyderabad,2022-07-02,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,normal,1,Mumbai Indians,76,4,Wankhede Stadium
+915,2024,Chennai,2022-07-03,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Chennai Super Kings,55,8,Eden Gardens
+916,2021,Delhi,2022-07-04,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,92,6,Eden Gardens
+917,2020,Kolkata,2022-07-05,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,97,5,MA Chidambaram Stadium
+918,2021,Kolkata,2022-07-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,normal,0,Kolkata Knight Riders,63,2,MA Chidambaram Stadium
+919,2021,Chennai,2022-07-07,Mumbai Indians,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,4,2,Wankhede Stadium
+920,2022,Mumbai,2022-07-08,Mumbai Indians,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,59,9,Wankhede Stadium
+921,2023,Jaipur,2022-07-09,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,tie,0,Chennai Super Kings,99,3,Wankhede Stadium
+922,2022,Bangalore,2022-07-10,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,28,9,MA Chidambaram Stadium
+923,2024,Delhi,2022-07-11,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,71,6,Wankhede Stadium
+924,2024,Delhi,2022-07-12,Mumbai Indians,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,11,4,MA Chidambaram Stadium
+925,2024,Hyderabad,2022-07-13,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,field,tie,1,Royal Challengers Bangalore,73,6,MA Chidambaram Stadium
+926,2023,Kolkata,2022-07-14,Mumbai Indians,Delhi Capitals,Chennai Super Kings,field,tie,0,Royal Challengers Bangalore,44,8,MA Chidambaram Stadium
+927,2022,Hyderabad,2022-07-15,Mumbai Indians,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,46,9,Wankhede Stadium
+928,2023,Kolkata,2022-07-16,Kolkata Knight Riders,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,69,0,Eden Gardens
+929,2022,Mumbai,2022-07-17,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,53,1,MA Chidambaram Stadium
+930,2024,Chennai,2022-07-18,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Mumbai Indians,79,7,MA Chidambaram Stadium
+931,2021,Bangalore,2022-07-19,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Mumbai Indians,8,8,M Chinnaswamy Stadium
+932,2021,Bangalore,2022-07-20,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,96,6,Wankhede Stadium
+933,2022,Bangalore,2022-07-21,Kolkata Knight Riders,Rajasthan Royals,Chennai Super Kings,bat,normal,1,Chennai Super Kings,67,5,Eden Gardens
+934,2021,Delhi,2022-07-22,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,69,7,MA Chidambaram Stadium
+935,2023,Hyderabad,2022-07-23,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,47,4,M Chinnaswamy Stadium
+936,2022,Chennai,2022-07-24,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,39,6,MA Chidambaram Stadium
+937,2024,Hyderabad,2022-07-25,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,42,0,Wankhede Stadium
+938,2023,Bangalore,2022-07-26,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,bat,tie,0,Mumbai Indians,38,3,M Chinnaswamy Stadium
+939,2024,Mumbai,2022-07-27,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,tie,1,Royal Challengers Bangalore,93,0,Eden Gardens
+940,2021,Delhi,2022-07-28,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Chennai Super Kings,63,2,Wankhede Stadium
+941,2022,Jaipur,2022-07-29,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,field,normal,1,Royal Challengers Bangalore,56,9,Wankhede Stadium
+942,2021,Chennai,2022-07-30,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Mumbai Indians,31,6,MA Chidambaram Stadium
+943,2023,Jaipur,2022-07-31,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Royal Challengers Bangalore,76,7,Eden Gardens
+944,2022,Delhi,2022-08-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,35,8,Eden Gardens
+945,2023,Mohali,2022-08-02,Royal Challengers Bangalore,Rajasthan Royals,Chennai Super Kings,field,tie,0,Kolkata Knight Riders,33,1,MA Chidambaram Stadium
+946,2023,Delhi,2022-08-03,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,12,6,M Chinnaswamy Stadium
+947,2020,Mumbai,2022-08-04,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,normal,1,Mumbai Indians,29,1,Eden Gardens
+948,2022,Bangalore,2022-08-05,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,87,2,M Chinnaswamy Stadium
+949,2021,Mumbai,2022-08-06,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,56,3,Eden Gardens
+950,2020,Chennai,2022-08-07,Chennai Super Kings,Punjab Kings,Mumbai Indians,bat,tie,0,Royal Challengers Bangalore,24,6,Eden Gardens
+951,2022,Chennai,2022-08-08,Kolkata Knight Riders,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,8,6,Wankhede Stadium
+952,2021,Chennai,2022-08-09,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,75,7,Wankhede Stadium
+953,2021,Jaipur,2022-08-10,Mumbai Indians,Rajasthan Royals,Chennai Super Kings,field,tie,1,Mumbai Indians,58,9,M Chinnaswamy Stadium
+954,2024,Chennai,2022-08-11,Chennai Super Kings,Punjab Kings,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,86,8,Eden Gardens
+955,2021,Mohali,2022-08-12,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,69,5,MA Chidambaram Stadium
+956,2024,Chennai,2022-08-13,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,12,3,Eden Gardens
+957,2023,Chennai,2022-08-14,Chennai Super Kings,Sunrisers Hyderabad,Kolkata Knight Riders,bat,tie,0,Mumbai Indians,99,9,Eden Gardens
+958,2021,Jaipur,2022-08-15,Royal Challengers Bangalore,Delhi Capitals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,58,5,MA Chidambaram Stadium
+959,2022,Hyderabad,2022-08-16,Mumbai Indians,Delhi Capitals,Chennai Super Kings,bat,normal,0,Royal Challengers Bangalore,51,8,Wankhede Stadium
+960,2023,Mohali,2022-08-17,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,field,tie,0,Royal Challengers Bangalore,59,5,MA Chidambaram Stadium
+961,2023,Kolkata,2022-08-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,18,8,Eden Gardens
+962,2023,Chennai,2022-08-19,Mumbai Indians,Delhi Capitals,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,33,1,Wankhede Stadium
+963,2024,Mohali,2022-08-20,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,48,5,Wankhede Stadium
+964,2022,Delhi,2022-08-21,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,tie,0,Royal Challengers Bangalore,61,2,Eden Gardens
+965,2022,Mohali,2022-08-22,Royal Challengers Bangalore,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,88,4,Wankhede Stadium
+966,2022,Jaipur,2022-08-23,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,tie,0,Kolkata Knight Riders,29,5,Wankhede Stadium
+967,2021,Kolkata,2022-08-24,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,bat,normal,0,Kolkata Knight Riders,92,8,M Chinnaswamy Stadium
+968,2020,Delhi,2022-08-25,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,7,7,MA Chidambaram Stadium
+969,2022,Mohali,2022-08-26,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,tie,0,Chennai Super Kings,94,4,MA Chidambaram Stadium
+970,2020,Mohali,2022-08-27,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Kolkata Knight Riders,87,1,Eden Gardens
+971,2024,Bangalore,2022-08-28,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,50,1,MA Chidambaram Stadium
+972,2021,Chennai,2022-08-29,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Royal Challengers Bangalore,81,5,M Chinnaswamy Stadium
+973,2020,Kolkata,2022-08-30,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,9,9,MA Chidambaram Stadium
+974,2024,Kolkata,2022-08-31,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,tie,0,Chennai Super Kings,0,0,Wankhede Stadium
+975,2024,Jaipur,2022-09-01,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,bat,tie,1,Kolkata Knight Riders,21,2,MA Chidambaram Stadium
+976,2020,Jaipur,2022-09-02,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,field,tie,1,Chennai Super Kings,46,2,M Chinnaswamy Stadium
+977,2021,Bangalore,2022-09-03,Chennai Super Kings,Punjab Kings,Royal Challengers Bangalore,field,normal,0,Royal Challengers Bangalore,27,6,Wankhede Stadium
+978,2021,Delhi,2022-09-04,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians,64,1,Wankhede Stadium
+979,2022,Kolkata,2022-09-05,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,normal,1,Kolkata Knight Riders,63,8,Eden Gardens
+980,2022,Jaipur,2022-09-06,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai Super Kings,field,normal,0,Mumbai Indians,70,2,MA Chidambaram Stadium
+981,2024,Jaipur,2022-09-07,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,tie,0,Chennai Super Kings,98,5,M Chinnaswamy Stadium
+982,2023,Mumbai,2022-09-08,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Kolkata Knight Riders,46,6,Wankhede Stadium
+983,2021,Delhi,2022-09-09,Royal Challengers Bangalore,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,49,4,M Chinnaswamy Stadium
+984,2023,Kolkata,2022-09-10,Mumbai Indians,Delhi Capitals,Kolkata Knight Riders,field,tie,1,Kolkata Knight Riders,54,9,M Chinnaswamy Stadium
+985,2024,Delhi,2022-09-11,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Mumbai Indians,89,6,MA Chidambaram Stadium
+986,2023,Hyderabad,2022-09-12,Chennai Super Kings,Rajasthan Royals,Royal Challengers Bangalore,field,tie,0,Kolkata Knight Riders,7,6,Wankhede Stadium
+987,2022,Jaipur,2022-09-13,Kolkata Knight Riders,Delhi Capitals,Mumbai Indians,field,normal,0,Chennai Super Kings,15,5,MA Chidambaram Stadium
+988,2022,Chennai,2022-09-14,Chennai Super Kings,Rajasthan Royals,Kolkata Knight Riders,field,tie,0,Kolkata Knight Riders,47,4,M Chinnaswamy Stadium
+989,2023,Hyderabad,2022-09-15,Royal Challengers Bangalore,Punjab Kings,Mumbai Indians,field,normal,0,Mumbai Indians,57,6,MA Chidambaram Stadium
+990,2022,Jaipur,2022-09-16,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,tie,1,Kolkata Knight Riders,59,9,Wankhede Stadium
+991,2020,Hyderabad,2022-09-17,Kolkata Knight Riders,Sunrisers Hyderabad,Mumbai Indians,field,normal,0,Kolkata Knight Riders,2,0,MA Chidambaram Stadium
+992,2021,Jaipur,2022-09-18,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,field,tie,0,Chennai Super Kings,70,9,M Chinnaswamy Stadium
+993,2021,Bangalore,2022-09-19,Royal Challengers Bangalore,Sunrisers Hyderabad,Chennai Super Kings,field,tie,1,Kolkata Knight Riders,91,4,M Chinnaswamy Stadium
+994,2023,Bangalore,2022-09-20,Chennai Super Kings,Punjab Kings,Kolkata Knight Riders,bat,tie,0,Chennai Super Kings,33,8,MA Chidambaram Stadium
+995,2024,Kolkata,2022-09-21,Chennai Super Kings,Rajasthan Royals,Mumbai Indians,field,normal,0,Chennai Super Kings,34,9,Wankhede Stadium
+996,2024,Bangalore,2022-09-22,Royal Challengers Bangalore,Rajasthan Royals,Kolkata Knight Riders,bat,tie,0,Kolkata Knight Riders,90,1,Eden Gardens
+997,2020,Bangalore,2022-09-23,Mumbai Indians,Punjab Kings,Chennai Super Kings,field,normal,0,Mumbai Indians,2,6,M Chinnaswamy Stadium
+998,2020,Mohali,2022-09-24,Kolkata Knight Riders,Rajasthan Royals,Royal Challengers Bangalore,field,normal,0,Chennai Super Kings,78,4,MA Chidambaram Stadium
+999,2020,Kolkata,2022-09-25,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,40,7,Eden Gardens
+1000,2022,Mumbai,2022-09-26,Royal Challengers Bangalore,Punjab Kings,Kolkata Knight Riders,bat,normal,0,Chennai Super Kings,58,4,Eden Gardens

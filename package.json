@@ -1,13 +1,21 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "ipl-win-predictor-advanced-ml",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "vite",
+    "dev:backend": "cd ml_backend && python enhanced_main.py",
+    "dev:simple": "concurrently \"npm run dev:frontend\" \"npm run dev:simple-backend\"",
+    "dev:simple-backend": "cd ml_backend && python simplified_main.py",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "install:backend": "cd ml_backend && pip install -r requirements.txt",
+    "setup": "npm install && npm run install:backend",
+    "start": "npm run dev",
+    "train:models": "cd ml_backend && python -c \"import asyncio; from enhanced_main import train_models_background; asyncio.run(train_models_background())\""
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
@@ -20,6 +28,7 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.18",
+    "concurrently": "^8.2.2",
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",

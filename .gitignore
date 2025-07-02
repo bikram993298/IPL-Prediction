@@ -145,3 +145,4 @@ results/*.html
 # Logs
 logs/
 *.log
+node_modules

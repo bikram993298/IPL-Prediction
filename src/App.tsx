@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
-import { Trophy, BarChart3, Calendar } from 'lucide-react';
+import { Trophy, BarChart3, Calendar, Brain } from 'lucide-react';
 import TeamSelector, { Team } from './components/TeamSelector';
 import MatchDetails from './components/MatchDetails';
 import ScoreInput from './components/ScoreInput';
 import ProbabilityDisplay from './components/ProbabilityDisplay';
 import MatchFactors from './components/MatchFactors';
 import LiveMatchIntegration from './components/LiveMatchIntegration';
+import MLBackendStatus from './components/MLBackendStatus';
 import { useProbabilityCalculator } from './hooks/useProbabilityCalculator';
 
 function App() {
@@ -38,7 +39,7 @@ function App() {
     isFirstInnings,
   };
 
-  const { probability, factors } = useProbabilityCalculator(matchState);
+  const { probability, factors, isLoading, usingMLBackend } = useProbabilityCalculator(matchState);
 
   const handleLiveMatchUpdate = (data: any) => {
     setTeam1(data.team1);
@@ -66,7 +67,9 @@ function App() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">IPL Win Predictor</h1>
-                <p className="text-sm text-gray-600">Advanced ML-powered cricket analytics with live data</p>
+                <p className="text-sm text-gray-600">
+                  Full-stack ML-powered cricket analytics with local Python backend
+                </p>
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-4">
@@ -75,8 +78,10 @@ function App() {
                 <span>IPL 2024 Season</span>
               </div>
               <div className="flex items-center space-x-2 text-sm text-gray-600">
-                <BarChart3 className="w-4 h-4" />
-                <span>Real-time Analysis</span>
+                <Brain className="w-4 h-4" />
+                <span className={usingMLBackend ? 'text-green-600' : 'text-orange-600'}>
+                  {usingMLBackend ? 'ML Backend Active' : 'Fallback Mode'}
+                </span>
               </div>
               <button
                 onClick={() => setShowLiveIntegration(!showLiveIntegration)}
@@ -95,6 +100,9 @@ function App() {
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="space-y-8">
+          {/* ML Backend Status */}
+          <MLBackendStatus />
+
           {/* Live Match Integration */}
           {showLiveIntegration && (
             <LiveMatchIntegration onMatchDataUpdate={handleLiveMatchUpdate} />
@@ -186,6 +194,8 @@ function App() {
                 team1={team1}
                 team2={team2}
                 probability={probability}
+                isLoading={isLoading}
+                usingMLBackend={usingMLBackend}
               />
             </div>
             <div>
@@ -199,8 +209,11 @@ function App() {
       <footer className="bg-gray-50 border-t mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-sm text-gray-600">
-            <p>IPL Win Probability Predictor • Advanced ML Analytics for Cricket</p>
-            <p className="mt-1">Powered by real-time match data and predictive algorithms</p>
+            <p>IPL Win Probability Predictor • Full-Stack ML Analytics</p>
+            <p className="mt-1">
+              Frontend: React + TypeScript • Backend: Python + FastAPI • 
+              {usingMLBackend ? ' 🚀 Local ML Active' : ' ⚡ Fallback Mode'}
+            </p>
           </div>
         </div>
       </footer>

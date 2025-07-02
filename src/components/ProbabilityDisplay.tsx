@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrendingUp, Award, AlertCircle } from 'lucide-react';
+import { TrendingUp, Award, AlertCircle, Brain, Zap, RefreshCw } from 'lucide-react';
 import type { Team } from './TeamSelector';
 
 interface ProbabilityDisplayProps {
@@ -10,9 +10,17 @@ interface ProbabilityDisplayProps {
     team2: number;
     confidence: 'low' | 'medium' | 'high';
   };
+  isLoading?: boolean;
+  usingMLBackend?: boolean;
 }
 
-export default function ProbabilityDisplay({ team1, team2, probability }: ProbabilityDisplayProps) {
+export default function ProbabilityDisplay({ 
+  team1, 
+  team2, 
+  probability, 
+  isLoading = false,
+  usingMLBackend = false 
+}: ProbabilityDisplayProps) {
   const getConfidenceColor = (confidence: string) => {
     switch (confidence) {
       case 'high': return 'text-green-600';
@@ -37,11 +45,35 @@ export default function ProbabilityDisplay({ team1, team2, probability }: Probab
     <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl shadow-lg p-6">
       <div className="flex items-center justify-between mb-6">
         <h3 className="text-xl font-bold text-gray-800">Win Probability</h3>
-        <div className={`flex items-center space-x-1 ${getConfidenceColor(probability.confidence)}`}>
-          <ConfidenceIcon className="w-5 h-5" />
-          <span className="text-sm font-semibold capitalize">{probability.confidence} Confidence</span>
+        <div className="flex items-center space-x-3">
+          {/* ML Backend Indicator */}
+          <div className={`flex items-center space-x-1 px-2 py-1 rounded-full text-xs font-medium ${
+            usingMLBackend 
+              ? 'bg-green-100 text-green-700' 
+              : 'bg-orange-100 text-orange-700'
+          }`}>
+            {usingMLBackend ? (
+              <Brain className="w-3 h-3" />
+            ) : (
+              <Zap className="w-3 h-3" />
+            )}
+            <span>{usingMLBackend ? 'ML Backend' : 'Fallback'}</span>
+          </div>
+          
+          {/* Confidence Indicator */}
+          <div className={`flex items-center space-x-1 ${getConfidenceColor(probability.confidence)}`}>
+            <ConfidenceIcon className="w-5 h-5" />
+            <span className="text-sm font-semibold capitalize">{probability.confidence} Confidence</span>
+          </div>
         </div>
       </div>
+
+      {isLoading && (
+        <div className="flex items-center justify-center py-8">
+          <RefreshCw className="w-6 h-6 animate-spin text-blue-600" />
+          <span className="ml-2 text-gray-600">Calculating probabilities...</span>
+        </div>
+      )}
 
       <div className="space-y-6">
         {/* Team 1 Probability */}
@@ -110,6 +142,16 @@ export default function ProbabilityDisplay({ team1, team2, probability }: Probab
           <div className="text-sm text-gray-500">
             {Math.max(probability.team1, probability.team2).toFixed(1)}% chance to win
           </div>
+        </div>
+      </div>
+
+      {/* Prediction Method Info */}
+      <div className="mt-4 p-3 bg-gray-50 rounded-lg">
+        <div className="text-xs text-gray-600">
+          <strong>Prediction Method:</strong> {usingMLBackend 
+            ? 'Advanced ML Backend (Python FastAPI + Cricket Analytics)' 
+            : 'Fallback Algorithm (Client-side calculation)'
+          }
         </div>
       </div>
     </div>
